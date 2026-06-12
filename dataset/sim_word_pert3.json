@@ -1,0 +1,8191 @@
+{
+    "53610": {
+        "w": "智力",
+        "cnt": 606,
+        "py1": "zhi4 li4",
+        "py2": "zhì lì",
+        "w_pert": [
+            "制造",
+            "治疗",
+            "至于",
+            "治理"
+        ],
+        "py2_pert": [
+            "zhì zào",
+            "zhì liáo",
+            "zhì yú",
+            "zhì lǐ"
+        ],
+        "answer": "D"
+    },
+    "29349": {
+        "w": "年纪",
+        "cnt": 1195,
+        "py1": "nian2 ji4",
+        "py2": "nián jì",
+        "w_pert": [
+            "年底",
+            "年间",
+            "年度",
+            "年级"
+        ],
+        "py2_pert": [
+            "nián dǐ",
+            "nián jiān",
+            "nián dù",
+            "nián jí"
+        ],
+        "answer": "D"
+    },
+    "36404": {
+        "w": "诗意",
+        "cnt": 229,
+        "py1": "shi1 yi4",
+        "py2": "shī yì",
+        "w_pert": [
+            "示意",
+            "交易",
+            "受益",
+            "日益"
+        ],
+        "py2_pert": [
+            "shì yì",
+            "jiāo yì",
+            "shòu yì",
+            "rì yì"
+        ],
+        "answer": "A"
+    },
+    "14181": {
+        "w": "功利",
+        "cnt": 136,
+        "py1": "gong1 li4",
+        "py2": "gōng lì",
+        "w_pert": [
+            "供给",
+            "功劳",
+            "工作",
+            "公里"
+        ],
+        "py2_pert": [
+            "gōng jǐ",
+            "gōng láo",
+            "gōng zuò",
+            "gōng lǐ"
+        ],
+        "answer": "D"
+    },
+    "7486": {
+        "w": "大使",
+        "cnt": 548,
+        "py1": "da4 shi3",
+        "py2": "dà shǐ",
+        "w_pert": [
+            "大数",
+            "大小",
+            "大致",
+            "大事"
+        ],
+        "py2_pert": [
+            "dà shù",
+            "dà xiǎo",
+            "dà zhì",
+            "dà shì"
+        ],
+        "answer": "D"
+    },
+    "52612": {
+        "w": "真挚",
+        "cnt": 172,
+        "py1": "zhen1 zhi4",
+        "py2": "zhēn zhì",
+        "w_pert": [
+            "针对",
+            "针织",
+            "珍珠",
+            "真实"
+        ],
+        "py2_pert": [
+            "zhēn duì",
+            "zhēn zhī",
+            "zhēn zhū",
+            "zhēn shí"
+        ],
+        "answer": "B"
+    },
+    "11461": {
+        "w": "房源",
+        "cnt": 342,
+        "py1": "fang2 yuan2",
+        "py2": "fáng yuán",
+        "w_pert": [
+            "人员",
+            "复原",
+            "光源",
+            "方圆"
+        ],
+        "py2_pert": [
+            "rén yuán",
+            "fù yuán",
+            "guāng yuán",
+            "fāng yuán"
+        ],
+        "answer": "D"
+    },
+    "21261": {
+        "w": "借势",
+        "cnt": 107,
+        "py1": "jie4 shi4",
+        "py2": "jiè shì",
+        "w_pert": [
+            "军事",
+            "揭示",
+            "但是",
+            "跌势"
+        ],
+        "py2_pert": [
+            "jūn shì",
+            "jiē shì",
+            "dàn shì",
+            "diē shì"
+        ],
+        "answer": "B"
+    },
+    "21363": {
+        "w": "金石",
+        "cnt": 152,
+        "py1": "jin1 shi2",
+        "py2": "jīn shí",
+        "w_pert": [
+            "今年",
+            "今日",
+            "金属",
+            "今世"
+        ],
+        "py2_pert": [
+            "jīn nián",
+            "jīn rì",
+            "jīn shǔ",
+            "jīn shì"
+        ],
+        "answer": "D"
+    },
+    "32714": {
+        "w": "倾向",
+        "cnt": 1195,
+        "py1": "qing1 xiang4",
+        "py2": "qīng xiàng",
+        "w_pert": [
+            "轻易",
+            "清晰",
+            "清香",
+            "清爽"
+        ],
+        "py2_pert": [
+            "qīng yì",
+            "qīng xī",
+            "qīng xiāng",
+            "qīng shuǎng"
+        ],
+        "answer": "C"
+    },
+    "26061": {
+        "w": "流连",
+        "cnt": 194,
+        "py1": "liu2 lian2",
+        "py2": "liú lián",
+        "w_pert": [
+            "流量",
+            "留念",
+            "流程",
+            "留恋"
+        ],
+        "py2_pert": [
+            "liú liàng",
+            "liú niàn",
+            "liú chéng",
+            "liú liàn"
+        ],
+        "answer": "D"
+    },
+    "25227": {
+        "w": "栗子",
+        "cnt": 121,
+        "py1": "li4 zi3",
+        "py2": "lì zǐ",
+        "w_pert": [
+            "篮子",
+            "离子",
+            "电子",
+            "鼻子"
+        ],
+        "py2_pert": [
+            "lán zǐ",
+            "lí zǐ",
+            "diàn zǐ",
+            "bí zǐ"
+        ],
+        "answer": "B"
+    },
+    "17377": {
+        "w": "护士",
+        "cnt": 396,
+        "py1": "hu4 shi4",
+        "py2": "hù shì",
+        "w_pert": [
+            "舒适",
+            "忽视",
+            "就是",
+            "合适"
+        ],
+        "py2_pert": [
+            "shū shì",
+            "hū shì",
+            "jiù shì",
+            "hé shì"
+        ],
+        "answer": "B"
+    },
+    "14059": {
+        "w": "公公",
+        "cnt": 129,
+        "py1": "gong1 gong5",
+        "py2": "gōng gong",
+        "w_pert": [
+            "公众",
+            "功夫",
+            "公告",
+            "公共"
+        ],
+        "py2_pert": [
+            "gōng zhòng",
+            "gōng fu",
+            "gōng gào",
+            "gōng gòng"
+        ],
+        "answer": "D"
+    },
+    "11435": {
+        "w": "防卫",
+        "cnt": 117,
+        "py1": "fang2 wei4",
+        "py2": "fáng wèi",
+        "w_pert": [
+            "风味",
+            "方位",
+            "尚未",
+            "从未"
+        ],
+        "py2_pert": [
+            "fēng wèi",
+            "fāng wèi",
+            "shàng wèi",
+            "cóng wèi"
+        ],
+        "answer": "B"
+    },
+    "45501": {
+        "w": "新兴",
+        "cnt": 1503,
+        "py1": "xin1 xing1",
+        "py2": "xīn xīng",
+        "w_pert": [
+            "心情",
+            "心血",
+            "新型",
+            "新生"
+        ],
+        "py2_pert": [
+            "xīn qíng",
+            "xīn xuè",
+            "xīn xíng",
+            "xīn shēng"
+        ],
+        "answer": "C"
+    },
+    "14177": {
+        "w": "功课",
+        "cnt": 366,
+        "py1": "gong1 ke4",
+        "py2": "gōng kè",
+        "w_pert": [
+            "公开",
+            "公车",
+            "公布",
+            "工科"
+        ],
+        "py2_pert": [
+            "gōng kāi",
+            "gōng chē",
+            "gōng bù",
+            "gōng kē"
+        ],
+        "answer": "D"
+    },
+    "33285": {
+        "w": "趣事",
+        "cnt": 173,
+        "py1": "qu4 shi4",
+        "py2": "qù shì",
+        "w_pert": [
+            "诠释",
+            "趋势",
+            "于是",
+            "正式"
+        ],
+        "py2_pert": [
+            "quán shì",
+            "qū shì",
+            "yú shì",
+            "zhèng shì"
+        ],
+        "answer": "B"
+    },
+    "45851": {
+        "w": "形状",
+        "cnt": 775,
+        "py1": "xing2 zhuang4",
+        "py2": "xíng zhuàng",
+        "w_pert": [
+            "行装",
+            "形式",
+            "刑侦",
+            "行将"
+        ],
+        "py2_pert": [
+            "xíng zhuāng",
+            "xíng shì",
+            "xíng zhēn",
+            "xíng jiāng"
+        ],
+        "answer": "A"
+    },
+    "35981": {
+        "w": "生菜",
+        "cnt": 100,
+        "py1": "sheng1 cai4",
+        "py2": "shēng cài",
+        "w_pert": [
+            "生存",
+            "生命",
+            "生财",
+            "生来"
+        ],
+        "py2_pert": [
+            "shēng cún",
+            "shēng mìng",
+            "shēng cái",
+            "shēng lái"
+        ],
+        "answer": "C"
+    },
+    "20903": {
+        "w": "接力",
+        "cnt": 278,
+        "py1": "jie1 li4",
+        "py2": "jiē lì",
+        "w_pert": [
+            "建立",
+            "学历",
+            "压力",
+            "竭力"
+        ],
+        "py2_pert": [
+            "jiàn lì",
+            "xué lì",
+            "yā lì",
+            "jié lì"
+        ],
+        "answer": "D"
+    },
+    "53016": {
+        "w": "政治",
+        "cnt": 2596,
+        "py1": "zheng4 zhi4",
+        "py2": "zhèng zhì",
+        "w_pert": [
+            "郑州",
+            "正值",
+            "证实",
+            "正在"
+        ],
+        "py2_pert": [
+            "zhèng zhōu",
+            "zhèng zhí",
+            "zhèng shí",
+            "zhèng zài"
+        ],
+        "answer": "B"
+    },
+    "47861": {
+        "w": "药店",
+        "cnt": 181,
+        "py1": "yao4 dian4",
+        "py2": "yào diàn",
+        "w_pert": [
+            "耀眼",
+            "要得",
+            "要点",
+            "药物"
+        ],
+        "py2_pert": [
+            "yào yǎn",
+            "yào dé",
+            "yào diǎn",
+            "yào wù"
+        ],
+        "answer": "C"
+    },
+    "8270": {
+        "w": "到底",
+        "cnt": 4566,
+        "py1": "dao4 di3",
+        "py2": "dào dǐ",
+        "w_pert": [
+            "到达",
+            "道地",
+            "到期",
+            "到手"
+        ],
+        "py2_pert": [
+            "dào dá",
+            "dào dì",
+            "dào qī",
+            "dào shǒu"
+        ],
+        "answer": "B"
+    },
+    "15566": {
+        "w": "国是",
+        "cnt": 720,
+        "py1": "guo2 shi4",
+        "py2": "guó shì",
+        "w_pert": [
+            "过世",
+            "公示",
+            "或是",
+            "城市"
+        ],
+        "py2_pert": [
+            "guò shì",
+            "gōng shì",
+            "huò shì",
+            "chéng shì"
+        ],
+        "answer": "A"
+    },
+    "55036": {
+        "w": "资质",
+        "cnt": 828,
+        "py1": "zi1 zhi4",
+        "py2": "zī zhì",
+        "w_pert": [
+            "实质",
+            "机制",
+            "自治",
+            "杂志"
+        ],
+        "py2_pert": [
+            "shí zhì",
+            "jī zhì",
+            "zì zhì",
+            "zá zhì"
+        ],
+        "answer": "C"
+    },
+    "54016": {
+        "w": "重要",
+        "cnt": 16382,
+        "py1": "zhong4 yao4",
+        "py2": "zhòng yào",
+        "w_pert": [
+            "就要",
+            "摘要",
+            "荣耀",
+            "中药"
+        ],
+        "py2_pert": [
+            "jiù yào",
+            "zhāi yào",
+            "róng yào",
+            "zhōng yào"
+        ],
+        "answer": "D"
+    },
+    "32907": {
+        "w": "晴天",
+        "cnt": 197,
+        "py1": "qing2 tian1",
+        "py2": "qíng tiān",
+        "w_pert": [
+            "昨天",
+            "秋天",
+            "青天",
+            "今天"
+        ],
+        "py2_pert": [
+            "zuó tiān",
+            "qiū tiān",
+            "qīng tiān",
+            "jīn tiān"
+        ],
+        "answer": "C"
+    },
+    "33929": {
+        "w": "任意",
+        "cnt": 853,
+        "py1": "ren4 yi4",
+        "py2": "rèn yì",
+        "w_pert": [
+            "容易",
+            "争议",
+            "人意",
+            "注意"
+        ],
+        "py2_pert": [
+            "róng yì",
+            "zhēng yì",
+            "rén yì",
+            "zhù yì"
+        ],
+        "answer": "C"
+    },
+    "43638": {
+        "w": "细心",
+        "cnt": 643,
+        "py1": "xi4 xin1",
+        "py2": "xì xīn",
+        "w_pert": [
+            "创新",
+            "齐心",
+            "悉心",
+            "雄心"
+        ],
+        "py2_pert": [
+            "chuàng xīn",
+            "qí xīn",
+            "xī xīn",
+            "xióng xīn"
+        ],
+        "answer": "C"
+    },
+    "2067": {
+        "w": "边地",
+        "cnt": 182,
+        "py1": "bian1 di4",
+        "py2": "biān dì",
+        "w_pert": [
+            "原地",
+            "遍地",
+            "当地",
+            "白地"
+        ],
+        "py2_pert": [
+            "yuán dì",
+            "biàn dì",
+            "dāng dì",
+            "bái dì"
+        ],
+        "answer": "B"
+    },
+    "36985": {
+        "w": "试想",
+        "cnt": 217,
+        "py1": "shi4 xiang3",
+        "py2": "shì xiǎng",
+        "w_pert": [
+            "事先",
+            "是否",
+            "适当",
+            "事项"
+        ],
+        "py2_pert": [
+            "shì xiān",
+            "shì fǒu",
+            "shì dàng",
+            "shì xiàng"
+        ],
+        "answer": "D"
+    },
+    "15695": {
+        "w": "过手",
+        "cnt": 437,
+        "py1": "guo4 shou3",
+        "py2": "guò shǒu",
+        "w_pert": [
+            "高手",
+            "着手",
+            "对手",
+            "国手"
+        ],
+        "py2_pert": [
+            "gāo shǒu",
+            "zhuó shǒu",
+            "duì shǒu",
+            "guó shǒu"
+        ],
+        "answer": "D"
+    },
+    "36659": {
+        "w": "实行",
+        "cnt": 2432,
+        "py1": "shi2 xing2",
+        "py2": "shí xíng",
+        "w_pert": [
+            "自行",
+            "施行",
+            "流行",
+            "上行"
+        ],
+        "py2_pert": [
+            "zì xíng",
+            "shī xíng",
+            "liú xíng",
+            "shàng xíng"
+        ],
+        "answer": "B"
+    },
+    "25364": {
+        "w": "廉洁",
+        "cnt": 278,
+        "py1": "lian2 jie2",
+        "py2": "lián jié",
+        "w_pert": [
+            "联合",
+            "廉价",
+            "连接",
+            "连夜"
+        ],
+        "py2_pert": [
+            "lián hé",
+            "lián jià",
+            "lián jiē",
+            "lián yè"
+        ],
+        "answer": "C"
+    },
+    "33824": {
+        "w": "人选",
+        "cnt": 763,
+        "py1": "ren2 xuan3",
+        "py2": "rén xuǎn",
+        "w_pert": [
+            "入选",
+            "任选",
+            "评选",
+            "甄选"
+        ],
+        "py2_pert": [
+            "rù xuǎn",
+            "rèn xuǎn",
+            "píng xuǎn",
+            "zhēn xuǎn"
+        ],
+        "answer": "B"
+    },
+    "11380": {
+        "w": "防守",
+        "cnt": 585,
+        "py1": "fang2 shou3",
+        "py2": "fáng shǒu",
+        "w_pert": [
+            "能手",
+            "分手",
+            "放手",
+            "双手"
+        ],
+        "py2_pert": [
+            "néng shǒu",
+            "fēn shǒu",
+            "fàng shǒu",
+            "shuāng shǒu"
+        ],
+        "answer": "C"
+    },
+    "5007": {
+        "w": "承认",
+        "cnt": 1816,
+        "py1": "cheng2 ren4",
+        "py2": "chéng rèn",
+        "w_pert": [
+            "诚然",
+            "成人",
+            "成本",
+            "程度"
+        ],
+        "py2_pert": [
+            "chéng rán",
+            "chéng rén",
+            "chéng běn",
+            "chéng dù"
+        ],
+        "answer": "B"
+    },
+    "15528": {
+        "w": "国境",
+        "cnt": 288,
+        "py1": "guo2 jing4",
+        "py2": "guó jìng",
+        "w_pert": [
+            "墨镜",
+            "干净",
+            "环境",
+            "过境"
+        ],
+        "py2_pert": [
+            "mò jìng",
+            "gān jìng",
+            "huán jìng",
+            "guò jìng"
+        ],
+        "answer": "D"
+    },
+    "5750": {
+        "w": "出手",
+        "cnt": 1127,
+        "py1": "chu1 shou3",
+        "py2": "chū shǒu",
+        "w_pert": [
+            "出售",
+            "出游",
+            "出版",
+            "出生"
+        ],
+        "py2_pert": [
+            "chū shòu",
+            "chū yóu",
+            "chū bǎn",
+            "chū shēng"
+        ],
+        "answer": "A"
+    },
+    "34202": {
+        "w": "如实",
+        "cnt": 372,
+        "py1": "ru2 shi2",
+        "py2": "rú shí",
+        "w_pert": [
+            "入时",
+            "务实",
+            "同时",
+            "肉食"
+        ],
+        "py2_pert": [
+            "rù shí",
+            "wù shí",
+            "tóng shí",
+            "ròu shí"
+        ],
+        "answer": "A"
+    },
+    "53635": {
+        "w": "置业",
+        "cnt": 409,
+        "py1": "zhi4 ye4",
+        "py2": "zhì yè",
+        "w_pert": [
+            "职业",
+            "专业",
+            "创业",
+            "失业"
+        ],
+        "py2_pert": [
+            "zhí yè",
+            "zhuān yè",
+            "chuàng yè",
+            "shī yè"
+        ],
+        "answer": "A"
+    },
+    "33265": {
+        "w": "去除",
+        "cnt": 596,
+        "py1": "qu4 chu2",
+        "py2": "qù chú",
+        "w_pert": [
+            "祛除",
+            "扣除",
+            "剔除",
+            "清除"
+        ],
+        "py2_pert": [
+            "qū chú",
+            "kòu chú",
+            "tī chú",
+            "qīng chú"
+        ],
+        "answer": "A"
+    },
+    "33789": {
+        "w": "人身",
+        "cnt": 1554,
+        "py1": "ren2 shen1",
+        "py2": "rén shēn",
+        "w_pert": [
+            "热身",
+            "妊娠",
+            "延伸",
+            "深深"
+        ],
+        "py2_pert": [
+            "rè shēn",
+            "rèn shēn",
+            "yán shēn",
+            "shēn shēn"
+        ],
+        "answer": "B"
+    },
+    "40658": {
+        "w": "童话",
+        "cnt": 415,
+        "py1": "tong2 hua4",
+        "py2": "tóng huà",
+        "w_pert": [
+            "文化",
+            "动画",
+            "听话",
+            "通话"
+        ],
+        "py2_pert": [
+            "wén huà",
+            "dòng huà",
+            "tīng huà",
+            "tōng huà"
+        ],
+        "answer": "D"
+    },
+    "19659": {
+        "w": "家属",
+        "cnt": 828,
+        "py1": "jia1 shu3",
+        "py2": "jiā shǔ",
+        "w_pert": [
+            "加入",
+            "家书",
+            "加上",
+            "家里"
+        ],
+        "py2_pert": [
+            "jiā rù",
+            "jiā shū",
+            "jiā shàng",
+            "jiā lǐ"
+        ],
+        "answer": "B"
+    },
+    "14106": {
+        "w": "公认",
+        "cnt": 573,
+        "py1": "gong1 ren4",
+        "py2": "gōng rèn",
+        "w_pert": [
+            "工业",
+            "功能",
+            "工人",
+            "公然"
+        ],
+        "py2_pert": [
+            "gōng yè",
+            "gōng néng",
+            "gōng rén",
+            "gōng rán"
+        ],
+        "answer": "C"
+    },
+    "14014": {
+        "w": "公有",
+        "cnt": 140,
+        "py1": "gong1 you3",
+        "py2": "gōng yǒu",
+        "w_pert": [
+            "国有",
+            "共有",
+            "亲友",
+            "朋友"
+        ],
+        "py2_pert": [
+            "guó yǒu",
+            "gòng yǒu",
+            "qīn yǒu",
+            "péng yǒu"
+        ],
+        "answer": "B"
+    },
+    "5842": {
+        "w": "初审",
+        "cnt": 152,
+        "py1": "chu1 shen3",
+        "py2": "chū shěn",
+        "w_pert": [
+            "出门",
+            "出口",
+            "出事",
+            "出身"
+        ],
+        "py2_pert": [
+            "chū mén",
+            "chū kǒu",
+            "chū shì",
+            "chū shēn"
+        ],
+        "answer": "D"
+    },
+    "43840": {
+        "w": "下人",
+        "cnt": 225,
+        "py1": "xia4 ren2",
+        "py2": "xià rén",
+        "w_pert": [
+            "下身",
+            "夏日",
+            "下来",
+            "下任"
+        ],
+        "py2_pert": [
+            "xià shēn",
+            "xià rì",
+            "xià lái",
+            "xià rèn"
+        ],
+        "answer": "D"
+    },
+    "35357": {
+        "w": "上香",
+        "cnt": 110,
+        "py1": "shang4 xiang1",
+        "py2": "shàng xiāng",
+        "w_pert": [
+            "上下",
+            "上涨",
+            "上相",
+            "上升"
+        ],
+        "py2_pert": [
+            "shàng xià",
+            "shàng zhǎng",
+            "shàng xiàng",
+            "shàng shēng"
+        ],
+        "answer": "C"
+    },
+    "9180": {
+        "w": "垫付",
+        "cnt": 109,
+        "py1": "dian4 fu4",
+        "py2": "diàn fù",
+        "w_pert": [
+            "天赋",
+            "答复",
+            "颠覆",
+            "孕妇"
+        ],
+        "py2_pert": [
+            "tiān fù",
+            "dá fù",
+            "diān fù",
+            "yùn fù"
+        ],
+        "answer": "C"
+    },
+    "12690": {
+        "w": "负荷",
+        "cnt": 449,
+        "py1": "fu4 he4",
+        "py2": "fù hè",
+        "w_pert": [
+            "复合",
+            "富含",
+            "附近",
+            "负责"
+        ],
+        "py2_pert": [
+            "fù hé",
+            "fù hán",
+            "fù jìn",
+            "fù zé"
+        ],
+        "answer": "A"
+    },
+    "20494": {
+        "w": "交接",
+        "cnt": 186,
+        "py1": "jiao1 jie1",
+        "py2": "jiāo jiē",
+        "w_pert": [
+            "交警",
+            "交通",
+            "交界",
+            "教学"
+        ],
+        "py2_pert": [
+            "jiāo jǐng",
+            "jiāo tōng",
+            "jiāo jiè",
+            "jiāo xué"
+        ],
+        "answer": "C"
+    },
+    "44008": {
+        "w": "掀起",
+        "cnt": 751,
+        "py1": "xian1 qi3",
+        "py2": "xiān qǐ",
+        "w_pert": [
+            "先期",
+            "先前",
+            "鲜美",
+            "纤细"
+        ],
+        "py2_pert": [
+            "xiān qī",
+            "xiān qián",
+            "xiān měi",
+            "xiān xì"
+        ],
+        "answer": "A"
+    },
+    "44405": {
+        "w": "相近",
+        "cnt": 331,
+        "py1": "xiang1 jin4",
+        "py2": "xiāng jìn",
+        "w_pert": [
+            "上进",
+            "行进",
+            "详尽",
+            "推进"
+        ],
+        "py2_pert": [
+            "shàng jìn",
+            "xíng jìn",
+            "xiáng jìn",
+            "tuī jìn"
+        ],
+        "answer": "C"
+    },
+    "9477": {
+        "w": "定局",
+        "cnt": 108,
+        "py1": "ding4 ju2",
+        "py2": "dìng jú",
+        "w_pert": [
+            "定期",
+            "定居",
+            "定价",
+            "定时"
+        ],
+        "py2_pert": [
+            "dìng qī",
+            "dìng jū",
+            "dìng jià",
+            "dìng shí"
+        ],
+        "answer": "B"
+    },
+    "5699": {
+        "w": "出炉",
+        "cnt": 729,
+        "py1": "chu1 lu2",
+        "py2": "chū lú",
+        "w_pert": [
+            "初步",
+            "出台",
+            "出路",
+            "初恋"
+        ],
+        "py2_pert": [
+            "chū bù",
+            "chū tái",
+            "chū lù",
+            "chū liàn"
+        ],
+        "answer": "C"
+    },
+    "35170": {
+        "w": "商品",
+        "cnt": 3127,
+        "py1": "shang1 pin3",
+        "py2": "shāng pǐn",
+        "w_pert": [
+            "上品",
+            "精品",
+            "藏品",
+            "食品"
+        ],
+        "py2_pert": [
+            "shàng pǐn",
+            "jīng pǐn",
+            "cáng pǐn",
+            "shí pǐn"
+        ],
+        "answer": "A"
+    },
+    "55391": {
+        "w": "自主",
+        "cnt": 2438,
+        "py1": "zi4 zhu3",
+        "py2": "zì zhǔ",
+        "w_pert": [
+            "自己",
+            "自制",
+            "自如",
+            "自助"
+        ],
+        "py2_pert": [
+            "zì jǐ",
+            "zì zhì",
+            "zì rú",
+            "zì zhù"
+        ],
+        "answer": "D"
+    },
+    "4971": {
+        "w": "成长",
+        "cnt": 4599,
+        "py1": "cheng2 zhang3",
+        "py2": "chéng zhǎng",
+        "w_pert": [
+            "成果",
+            "城镇",
+            "城乡",
+            "成章"
+        ],
+        "py2_pert": [
+            "chéng guǒ",
+            "chéng zhèn",
+            "chéng xiāng",
+            "chéng zhāng"
+        ],
+        "answer": "D"
+    },
+    "54825": {
+        "w": "撞击",
+        "cnt": 257,
+        "py1": "zhuang4 ji1",
+        "py2": "zhuàng jī",
+        "w_pert": [
+            "面积",
+            "织机",
+            "商机",
+            "装机"
+        ],
+        "py2_pert": [
+            "miàn jī",
+            "zhī jī",
+            "shāng jī",
+            "zhuāng jī"
+        ],
+        "answer": "D"
+    },
+    "36058": {
+        "w": "生事",
+        "cnt": 357,
+        "py1": "sheng1 shi4",
+        "py2": "shēng shì",
+        "w_pert": [
+            "上市",
+            "盛世",
+            "方式",
+            "人士"
+        ],
+        "py2_pert": [
+            "shàng shì",
+            "shèng shì",
+            "fāng shì",
+            "rén shì"
+        ],
+        "answer": "B"
+    },
+    "20483": {
+        "w": "交汇",
+        "cnt": 322,
+        "py1": "jiao1 hui4",
+        "py2": "jiāo huì",
+        "w_pert": [
+            "都会",
+            "描绘",
+            "聚会",
+            "教会"
+        ],
+        "py2_pert": [
+            "dū huì",
+            "miáo huì",
+            "jù huì",
+            "jiào huì"
+        ],
+        "answer": "D"
+    },
+    "5795": {
+        "w": "出众",
+        "cnt": 401,
+        "py1": "chu1 zhong4",
+        "py2": "chū zhòng",
+        "w_pert": [
+            "出征",
+            "初中",
+            "出工",
+            "出现"
+        ],
+        "py2_pert": [
+            "chū zhēng",
+            "chū zhōng",
+            "chū gōng",
+            "chū xiàn"
+        ],
+        "answer": "B"
+    },
+    "53844": {
+        "w": "终将",
+        "cnt": 421,
+        "py1": "zhong1 jiang1",
+        "py2": "zhōng jiāng",
+        "w_pert": [
+            "中心",
+            "中介",
+            "中常",
+            "中将"
+        ],
+        "py2_pert": [
+            "zhōng xīn",
+            "zhōng jiè",
+            "zhōng cháng",
+            "zhōng jiàng"
+        ],
+        "answer": "D"
+    },
+    "44486": {
+        "w": "香蕉",
+        "cnt": 376,
+        "py1": "xiang1 jiao1",
+        "py2": "xiāng jiāo",
+        "w_pert": [
+            "相较",
+            "相继",
+            "相关",
+            "香料"
+        ],
+        "py2_pert": [
+            "xiāng jiào",
+            "xiāng jì",
+            "xiāng guān",
+            "xiāng liào"
+        ],
+        "answer": "A"
+    },
+    "25092": {
+        "w": "历时",
+        "cnt": 511,
+        "py1": "li4 shi2",
+        "py2": "lì shí",
+        "w_pert": [
+            "历史",
+            "隶属",
+            "例子",
+            "立即"
+        ],
+        "py2_pert": [
+            "lì shǐ",
+            "lì shǔ",
+            "lì zǐ",
+            "lì jí"
+        ],
+        "answer": "A"
+    },
+    "33772": {
+        "w": "人命",
+        "cnt": 197,
+        "py1": "ren2 ming4",
+        "py2": "rén mìng",
+        "w_pert": [
+            "人名",
+            "人心",
+            "人数",
+            "人们"
+        ],
+        "py2_pert": [
+            "rén míng",
+            "rén xīn",
+            "rén shù",
+            "rén men"
+        ],
+        "answer": "A"
+    },
+    "19352": {
+        "w": "记时",
+        "cnt": 129,
+        "py1": "ji4 shi2",
+        "py2": "jì shí",
+        "w_pert": [
+            "技能",
+            "祭祀",
+            "既是",
+            "技术"
+        ],
+        "py2_pert": [
+            "jì néng",
+            "jì sì",
+            "jì shì",
+            "jì shù"
+        ],
+        "answer": "C"
+    },
+    "43936": {
+        "w": "仙人",
+        "cnt": 132,
+        "py1": "xian1 ren2",
+        "py2": "xiān rén",
+        "w_pert": [
+            "线人",
+            "行人",
+            "家人",
+            "前人"
+        ],
+        "py2_pert": [
+            "xiàn rén",
+            "xíng rén",
+            "jiā rén",
+            "qián rén"
+        ],
+        "answer": "A"
+    },
+    "36553": {
+        "w": "时机",
+        "cnt": 1392,
+        "py1": "shi2 ji1",
+        "py2": "shí jī",
+        "w_pert": [
+            "实力",
+            "实践",
+            "十分",
+            "实际"
+        ],
+        "py2_pert": [
+            "shí lì",
+            "shí jiàn",
+            "shí fēn",
+            "shí jì"
+        ],
+        "answer": "D"
+    },
+    "11883": {
+        "w": "分局",
+        "cnt": 710,
+        "py1": "fen1 ju2",
+        "py2": "fēn jú",
+        "w_pert": [
+            "分居",
+            "分解",
+            "分别",
+            "分析"
+        ],
+        "py2_pert": [
+            "fēn jū",
+            "fēn jiě",
+            "fēn bié",
+            "fēn xī"
+        ],
+        "answer": "A"
+    },
+    "36577": {
+        "w": "时事",
+        "cnt": 177,
+        "py1": "shi2 shi4",
+        "py2": "shí shì",
+        "w_pert": [
+            "时候",
+            "实说",
+            "食指",
+            "实施"
+        ],
+        "py2_pert": [
+            "shí hòu",
+            "shí shuō",
+            "shí zhǐ",
+            "shí shī"
+        ],
+        "answer": "D"
+    },
+    "45806": {
+        "w": "行驶",
+        "cnt": 1648,
+        "py1": "xing2 shi3",
+        "py2": "xíng shǐ",
+        "w_pert": [
+            "形势",
+            "行走",
+            "行商",
+            "形似"
+        ],
+        "py2_pert": [
+            "xíng shì",
+            "xíng zǒu",
+            "xíng shāng",
+            "xíng sì"
+        ],
+        "answer": "A"
+    },
+    "12477": {
+        "w": "服饰",
+        "cnt": 581,
+        "py1": "fu2 shi4",
+        "py2": "fú shì",
+        "w_pert": [
+            "都市",
+            "发市",
+            "模式",
+            "复试"
+        ],
+        "py2_pert": [
+            "dū shì",
+            "fā shì",
+            "mó shì",
+            "fù shì"
+        ],
+        "answer": "D"
+    },
+    "7207": {
+        "w": "大法",
+        "cnt": 185,
+        "py1": "da4 fa3",
+        "py2": "dà fǎ",
+        "w_pert": [
+            "大脑",
+            "大发",
+            "大幅",
+            "大家"
+        ],
+        "py2_pert": [
+            "dà nǎo",
+            "dà fa",
+            "dà fú",
+            "dà jiā"
+        ],
+        "answer": "B"
+    },
+    "20917": {
+        "w": "接手",
+        "cnt": 274,
+        "py1": "jie1 shou3",
+        "py2": "jiē shǒu",
+        "w_pert": [
+            "街头",
+            "接受",
+            "结实",
+            "结果"
+        ],
+        "py2_pert": [
+            "jiē tóu",
+            "jiē shòu",
+            "jiē shi",
+            "jiē guǒ"
+        ],
+        "answer": "B"
+    },
+    "32859": {
+        "w": "情境",
+        "cnt": 180,
+        "py1": "qing2 jing4",
+        "py2": "qíng jìng",
+        "w_pert": [
+            "情形",
+            "情节",
+            "情景",
+            "情况"
+        ],
+        "py2_pert": [
+            "qíng xíng",
+            "qíng jié",
+            "qíng jǐng",
+            "qíng kuàng"
+        ],
+        "answer": "C"
+    },
+    "37547": {
+        "w": "抒发",
+        "cnt": 101,
+        "py1": "shu1 fa1",
+        "py2": "shū fā",
+        "w_pert": [
+            "输出",
+            "书画",
+            "舒服",
+            "书法"
+        ],
+        "py2_pert": [
+            "shū chū",
+            "shū huà",
+            "shū fu",
+            "shū fǎ"
+        ],
+        "answer": "D"
+    },
+    "28265": {
+        "w": "明晰",
+        "cnt": 232,
+        "py1": "ming2 xi1",
+        "py2": "míng xī",
+        "w_pert": [
+            "名义",
+            "明细",
+            "名单",
+            "明显"
+        ],
+        "py2_pert": [
+            "míng yì",
+            "míng xì",
+            "míng dān",
+            "míng xiǎn"
+        ],
+        "answer": "B"
+    },
+    "19675": {
+        "w": "家信",
+        "cnt": 181,
+        "py1": "jia1 xin4",
+        "py2": "jiā xìn",
+        "w_pert": [
+            "加大",
+            "家庭",
+            "加息",
+            "加薪"
+        ],
+        "py2_pert": [
+            "jiā dà",
+            "jiā tíng",
+            "jiā xī",
+            "jiā xīn"
+        ],
+        "answer": "D"
+    },
+    "21085": {
+        "w": "结识",
+        "cnt": 264,
+        "py1": "jie2 shi2",
+        "py2": "jié shí",
+        "w_pert": [
+            "确实",
+            "其实",
+            "坚实",
+            "届时"
+        ],
+        "py2_pert": [
+            "què shí",
+            "qí shí",
+            "jiān shí",
+            "jiè shí"
+        ],
+        "answer": "D"
+    },
+    "15482": {
+        "w": "国都",
+        "cnt": 423,
+        "py1": "guo2 du1",
+        "py2": "guó dū",
+        "w_pert": [
+            "国度",
+            "国家",
+            "国道",
+            "国务"
+        ],
+        "py2_pert": [
+            "guó dù",
+            "guó jiā",
+            "guó dào",
+            "guó wù"
+        ],
+        "answer": "A"
+    },
+    "22413": {
+        "w": "巨型",
+        "cnt": 200,
+        "py1": "ju4 xing2",
+        "py2": "jù xíng",
+        "w_pert": [
+            "据悉",
+            "距今",
+            "巨星",
+            "距离"
+        ],
+        "py2_pert": [
+            "jù xī",
+            "jù jīn",
+            "jù xīng",
+            "jù lí"
+        ],
+        "answer": "C"
+    },
+    "12553": {
+        "w": "福建",
+        "cnt": 1270,
+        "py1": "fu2 jian4",
+        "py2": "fú jiàn",
+        "w_pert": [
+            "条件",
+            "部件",
+            "附件",
+            "封建"
+        ],
+        "py2_pert": [
+            "tiáo jiàn",
+            "bù jiàn",
+            "fù jiàn",
+            "fēng jiàn"
+        ],
+        "answer": "C"
+    },
+    "17089": {
+        "w": "后起",
+        "cnt": 136,
+        "py1": "hou4 qi3",
+        "py2": "hòu qǐ",
+        "w_pert": [
+            "后果",
+            "后续",
+            "后期",
+            "后勤"
+        ],
+        "py2_pert": [
+            "hòu guǒ",
+            "hòu xù",
+            "hòu qī",
+            "hòu qín"
+        ],
+        "answer": "C"
+    },
+    "36014": {
+        "w": "生机",
+        "cnt": 626,
+        "py1": "sheng1 ji1",
+        "py2": "shēng jī",
+        "w_pert": [
+            "升级",
+            "声音",
+            "生意",
+            "生就"
+        ],
+        "py2_pert": [
+            "shēng jí",
+            "shēng yīn",
+            "shēng yi",
+            "shēng jiù"
+        ],
+        "answer": "A"
+    },
+    "19109": {
+        "w": "极地",
+        "cnt": 259,
+        "py1": "ji2 di4",
+        "py2": "jí dì",
+        "w_pert": [
+            "接地",
+            "传递",
+            "基地",
+            "异地"
+        ],
+        "py2_pert": [
+            "jiē dì",
+            "chuán dì",
+            "jī dì",
+            "yì dì"
+        ],
+        "answer": "C"
+    },
+    "21793": {
+        "w": "精力",
+        "cnt": 1419,
+        "py1": "jing1 li4",
+        "py2": "jīng lì",
+        "w_pert": [
+            "经过",
+            "精灵",
+            "惊喜",
+            "经理"
+        ],
+        "py2_pert": [
+            "jīng guò",
+            "jīng líng",
+            "jīng xǐ",
+            "jīng lǐ"
+        ],
+        "answer": "D"
+    },
+    "36789": {
+        "w": "士气",
+        "cnt": 176,
+        "py1": "shi4 qi4",
+        "py2": "shì qì",
+        "w_pert": [
+            "放弃",
+            "生气",
+            "湿气",
+            "瓷器"
+        ],
+        "py2_pert": [
+            "fàng qì",
+            "shēng qì",
+            "shī qì",
+            "cí qì"
+        ],
+        "answer": "C"
+    },
+    "22032": {
+        "w": "静心",
+        "cnt": 113,
+        "py1": "jing4 xin1",
+        "py2": "jìng xīn",
+        "w_pert": [
+            "决心",
+            "内心",
+            "清新",
+            "精心"
+        ],
+        "py2_pert": [
+            "jué xīn",
+            "nèi xīn",
+            "qīng xīn",
+            "jīng xīn"
+        ],
+        "answer": "D"
+    },
+    "7211": {
+        "w": "大奖",
+        "cnt": 836,
+        "py1": "da4 jiang3",
+        "py2": "dà jiǎng",
+        "w_pert": [
+            "大街",
+            "大胆",
+            "大将",
+            "大量"
+        ],
+        "py2_pert": [
+            "dà jiē",
+            "dà dǎn",
+            "dà jiàng",
+            "dà liàng"
+        ],
+        "answer": "C"
+    },
+    "9507": {
+        "w": "定型",
+        "cnt": 188,
+        "py1": "ding4 xing2",
+        "py2": "dìng xíng",
+        "w_pert": [
+            "定向",
+            "定金",
+            "定性",
+            "定格"
+        ],
+        "py2_pert": [
+            "dìng xiàng",
+            "dìng jīn",
+            "dìng xìng",
+            "dìng gé"
+        ],
+        "answer": "C"
+    },
+    "45428": {
+        "w": "心上",
+        "cnt": 340,
+        "py1": "xin1 shang4",
+        "py2": "xīn shàng",
+        "w_pert": [
+            "新疆",
+            "心态",
+            "欣赏",
+            "新手"
+        ],
+        "py2_pert": [
+            "xīn jiāng",
+            "xīn tài",
+            "xīn shǎng",
+            "xīn shǒu"
+        ],
+        "answer": "C"
+    },
+    "36344": {
+        "w": "失职",
+        "cnt": 103,
+        "py1": "shi1 zhi2",
+        "py2": "shī zhí",
+        "w_pert": [
+            "时值",
+            "数值",
+            "增值",
+            "辞职"
+        ],
+        "py2_pert": [
+            "shí zhí",
+            "shù zhí",
+            "zēng zhí",
+            "cí zhí"
+        ],
+        "answer": "A"
+    },
+    "13926": {
+        "w": "工地",
+        "cnt": 414,
+        "py1": "gong1 di4",
+        "py2": "gōng dì",
+        "w_pert": [
+            "供应",
+            "公道",
+            "攻击",
+            "功底"
+        ],
+        "py2_pert": [
+            "gōng yìng",
+            "gōng dao",
+            "gōng jī",
+            "gōng dǐ"
+        ],
+        "answer": "D"
+    },
+    "36838": {
+        "w": "市价",
+        "cnt": 210,
+        "py1": "shi4 jia4",
+        "py2": "shì jià",
+        "w_pert": [
+            "视觉",
+            "事业",
+            "世家",
+            "视察"
+        ],
+        "py2_pert": [
+            "shì jué",
+            "shì yè",
+            "shì jiā",
+            "shì chá"
+        ],
+        "answer": "C"
+    },
+    "45524": {
+        "w": "新鲜",
+        "cnt": 2446,
+        "py1": "xin1 xian1",
+        "py2": "xīn xiān",
+        "w_pert": [
+            "心弦",
+            "心想",
+            "新区",
+            "新建"
+        ],
+        "py2_pert": [
+            "xīn xián",
+            "xīn xiǎng",
+            "xīn qū",
+            "xīn jiàn"
+        ],
+        "answer": "A"
+    },
+    "8791": {
+        "w": "地利",
+        "cnt": 492,
+        "py1": "di4 li4",
+        "py2": "dì lì",
+        "w_pert": [
+            "低利",
+            "顺利",
+            "独立",
+            "激励"
+        ],
+        "py2_pert": [
+            "dī lì",
+            "shùn lì",
+            "dú lì",
+            "jī lì"
+        ],
+        "answer": "A"
+    },
+    "12740": {
+        "w": "附注",
+        "cnt": 112,
+        "py1": "fu4 zhu4",
+        "py2": "fù zhù",
+        "w_pert": [
+            "父母",
+            "付诸",
+            "附着",
+            "覆盖"
+        ],
+        "py2_pert": [
+            "fù mǔ",
+            "fù zhū",
+            "fù zhuó",
+            "fù gài"
+        ],
+        "answer": "B"
+    },
+    "24935": {
+        "w": "离异",
+        "cnt": 107,
+        "py1": "li2 yi4",
+        "py2": "lí yì",
+        "w_pert": [
+            "意义",
+            "利益",
+            "协议",
+            "乐意"
+        ],
+        "py2_pert": [
+            "yì yì",
+            "lì yì",
+            "xié yì",
+            "lè yì"
+        ],
+        "answer": "B"
+    },
+    "5630": {
+        "w": "出世",
+        "cnt": 259,
+        "py1": "chu1 shi4",
+        "py2": "chū shì",
+        "w_pert": [
+            "出水",
+            "出去",
+            "初始",
+            "出资"
+        ],
+        "py2_pert": [
+            "chū shuǐ",
+            "chū qù",
+            "chū shǐ",
+            "chū zī"
+        ],
+        "answer": "C"
+    },
+    "53035": {
+        "w": "之前",
+        "cnt": 9185,
+        "py1": "zhi1 qian2",
+        "py2": "zhī qián",
+        "w_pert": [
+            "赚钱",
+            "当前",
+            "日前",
+            "值钱"
+        ],
+        "py2_pert": [
+            "zhuàn qián",
+            "dāng qián",
+            "rì qián",
+            "zhí qián"
+        ],
+        "answer": "D"
+    },
+    "21782": {
+        "w": "精度",
+        "cnt": 292,
+        "py1": "jing1 du4",
+        "py2": "jīng dù",
+        "w_pert": [
+            "京都",
+            "经典",
+            "经济",
+            "惊呼"
+        ],
+        "py2_pert": [
+            "jīng dū",
+            "jīng diǎn",
+            "jīng jì",
+            "jīng hū"
+        ],
+        "answer": "A"
+    },
+    "19979": {
+        "w": "煎饼",
+        "cnt": 100,
+        "py1": "jian1 bing3",
+        "py2": "jiān bǐng",
+        "w_pert": [
+            "坚定",
+            "兼并",
+            "监管",
+            "兼备"
+        ],
+        "py2_pert": [
+            "jiān dìng",
+            "jiān bìng",
+            "jiān guǎn",
+            "jiān bèi"
+        ],
+        "answer": "B"
+    },
+    "42872": {
+        "w": "无理",
+        "cnt": 187,
+        "py1": "wu2 li3",
+        "py2": "wú lǐ",
+        "w_pert": [
+            "无疑",
+            "无力",
+            "无法",
+            "无论"
+        ],
+        "py2_pert": [
+            "wú yí",
+            "wú lì",
+            "wú fǎ",
+            "wú lùn"
+        ],
+        "answer": "B"
+    },
+    "12033": {
+        "w": "奋力",
+        "cnt": 234,
+        "py1": "fen4 li4",
+        "py2": "fèn lì",
+        "w_pert": [
+            "能力",
+            "福利",
+            "动力",
+            "分利"
+        ],
+        "py2_pert": [
+            "néng lì",
+            "fú lì",
+            "dòng lì",
+            "fēn lì"
+        ],
+        "answer": "D"
+    },
+    "45449": {
+        "w": "心理",
+        "cnt": 3878,
+        "py1": "xin1 li3",
+        "py2": "xīn lǐ",
+        "w_pert": [
+            "心灵",
+            "辛苦",
+            "心地",
+            "心力"
+        ],
+        "py2_pert": [
+            "xīn líng",
+            "xīn kǔ",
+            "xīn dì",
+            "xīn lì"
+        ],
+        "answer": "D"
+    },
+    "44533": {
+        "w": "详见",
+        "cnt": 418,
+        "py1": "xiang2 jian4",
+        "py2": "xiáng jiàn",
+        "w_pert": [
+            "相见",
+            "修建",
+            "创建",
+            "逐渐"
+        ],
+        "py2_pert": [
+            "xiāng jiàn",
+            "xiū jiàn",
+            "chuàng jiàn",
+            "zhú jiàn"
+        ],
+        "answer": "A"
+    },
+    "18221": {
+        "w": "回首",
+        "cnt": 231,
+        "py1": "hui2 shou3",
+        "py2": "huí shǒu",
+        "w_pert": [
+            "回想",
+            "回收",
+            "回升",
+            "回头"
+        ],
+        "py2_pert": [
+            "huí xiǎng",
+            "huí shōu",
+            "huí shēng",
+            "huí tóu"
+        ],
+        "answer": "B"
+    },
+    "46611": {
+        "w": "学习",
+        "cnt": 7863,
+        "py1": "xue2 xi2",
+        "py2": "xué xí",
+        "w_pert": [
+            "学员",
+            "学校",
+            "学系",
+            "学期"
+        ],
+        "py2_pert": [
+            "xué yuán",
+            "xué xiào",
+            "xué xì",
+            "xué qī"
+        ],
+        "answer": "C"
+    },
+    "53154": {
+        "w": "织物",
+        "cnt": 117,
+        "py1": "zhi1 wu4",
+        "py2": "zhī wù",
+        "w_pert": [
+            "食物",
+            "植物",
+            "商务",
+            "债务"
+        ],
+        "py2_pert": [
+            "shí wù",
+            "zhí wù",
+            "shāng wù",
+            "zhài wù"
+        ],
+        "answer": "B"
+    },
+    "42329": {
+        "w": "卫视",
+        "cnt": 1193,
+        "py1": "wei4 shi4",
+        "py2": "wèi shì",
+        "w_pert": [
+            "位置",
+            "喂食",
+            "卫生",
+            "味道"
+        ],
+        "py2_pert": [
+            "wèi zhi",
+            "wèi shí",
+            "wèi shēng",
+            "wèi dào"
+        ],
+        "answer": "B"
+    },
+    "22043": {
+        "w": "镜子",
+        "cnt": 459,
+        "py1": "jing4 zi3",
+        "py2": "jìng zǐ",
+        "w_pert": [
+            "精子",
+            "亲子",
+            "样子",
+            "橘子"
+        ],
+        "py2_pert": [
+            "jīng zǐ",
+            "qīn zǐ",
+            "yàng zǐ",
+            "jú zǐ"
+        ],
+        "answer": "A"
+    },
+    "19637": {
+        "w": "家家",
+        "cnt": 354,
+        "py1": "jia1 jia1",
+        "py2": "jiā jiā",
+        "w_pert": [
+            "加工",
+            "加剧",
+            "加价",
+            "加码"
+        ],
+        "py2_pert": [
+            "jiā gōng",
+            "jiā jù",
+            "jiā jià",
+            "jiā mǎ"
+        ],
+        "answer": "C"
+    },
+    "33328": {
+        "w": "全集",
+        "cnt": 127,
+        "py1": "quan2 ji2",
+        "py2": "quán jí",
+        "w_pert": [
+            "全国",
+            "全力",
+            "全景",
+            "拳击"
+        ],
+        "py2_pert": [
+            "quán guó",
+            "quán lì",
+            "quán jǐng",
+            "quán jī"
+        ],
+        "answer": "D"
+    },
+    "44257": {
+        "w": "线形",
+        "cnt": 273,
+        "py1": "xian4 xing2",
+        "py2": "xiàn xíng",
+        "w_pert": [
+            "线性",
+            "现金",
+            "现实",
+            "现象"
+        ],
+        "py2_pert": [
+            "xiàn xìng",
+            "xiàn jīn",
+            "xiàn shí",
+            "xiàn xiàng"
+        ],
+        "answer": "A"
+    },
+    "5973": {
+        "w": "触发",
+        "cnt": 320,
+        "py1": "chu4 fa1",
+        "py2": "chù fā",
+        "w_pert": [
+            "爆发",
+            "出发",
+            "突发",
+            "长发"
+        ],
+        "py2_pert": [
+            "bào fā",
+            "chū fā",
+            "tū fā",
+            "cháng fā"
+        ],
+        "answer": "B"
+    },
+    "37023": {
+        "w": "柿子",
+        "cnt": 158,
+        "py1": "shi4 zi3",
+        "py2": "shì zǐ",
+        "w_pert": [
+            "侄子",
+            "狮子",
+            "辈子",
+            "绳子"
+        ],
+        "py2_pert": [
+            "zhí zǐ",
+            "shī zǐ",
+            "bèi zǐ",
+            "shéng zǐ"
+        ],
+        "answer": "B"
+    },
+    "30872": {
+        "w": "平房",
+        "cnt": 100,
+        "py1": "ping2 fang2",
+        "py2": "píng fáng",
+        "w_pert": [
+            "平方",
+            "平台",
+            "评分",
+            "屏障"
+        ],
+        "py2_pert": [
+            "píng fāng",
+            "píng tái",
+            "píng fēn",
+            "píng zhàng"
+        ],
+        "answer": "A"
+    },
+    "45705": {
+        "w": "星期",
+        "cnt": 1315,
+        "py1": "xing1 qi1",
+        "py2": "xīng qī",
+        "w_pert": [
+            "星球",
+            "星星",
+            "兴起",
+            "星级"
+        ],
+        "py2_pert": [
+            "xīng qiú",
+            "xīng xīng",
+            "xīng qǐ",
+            "xīng jí"
+        ],
+        "answer": "C"
+    },
+    "10374": {
+        "w": "多时",
+        "cnt": 1541,
+        "py1": "duo1 shi2",
+        "py2": "duō shí",
+        "w_pert": [
+            "多次",
+            "多事",
+            "多数",
+            "多年"
+        ],
+        "py2_pert": [
+            "duō cì",
+            "duō shì",
+            "duō shù",
+            "duō nián"
+        ],
+        "answer": "B"
+    },
+    "10786": {
+        "w": "发火",
+        "cnt": 161,
+        "py1": "fa1 huo3",
+        "py2": "fā huǒ",
+        "w_pert": [
+            "发挥",
+            "发货",
+            "发作",
+            "发展"
+        ],
+        "py2_pert": [
+            "fā huī",
+            "fā huò",
+            "fā zuò",
+            "fā zhǎn"
+        ],
+        "answer": "B"
+    },
+    "46599": {
+        "w": "学识",
+        "cnt": 132,
+        "py1": "xue2 shi2",
+        "py2": "xué shí",
+        "w_pert": [
+            "学子",
+            "学士",
+            "学成",
+            "学生"
+        ],
+        "py2_pert": [
+            "xué zǐ",
+            "xué shì",
+            "xué chéng",
+            "xué shēng"
+        ],
+        "answer": "B"
+    },
+    "43328": {
+        "w": "吸食",
+        "cnt": 112,
+        "py1": "xi1 shi2",
+        "py2": "xī shí",
+        "w_pert": [
+            "昔日",
+            "西南",
+            "稀释",
+            "吸收"
+        ],
+        "py2_pert": [
+            "xī rì",
+            "xī nán",
+            "xī shì",
+            "xī shōu"
+        ],
+        "answer": "C"
+    },
+    "21970": {
+        "w": "竞选",
+        "cnt": 199,
+        "py1": "jing4 xuan3",
+        "py2": "jìng xuǎn",
+        "w_pert": [
+            "精选",
+            "节选",
+            "候选",
+            "遴选"
+        ],
+        "py2_pert": [
+            "jīng xuǎn",
+            "jié xuǎn",
+            "hòu xuǎn",
+            "lín xuǎn"
+        ],
+        "answer": "A"
+    },
+    "45772": {
+        "w": "行好",
+        "cnt": 114,
+        "py1": "xing2 hao3",
+        "py2": "xíng hǎo",
+        "w_pert": [
+            "行贿",
+            "行销",
+            "行使",
+            "型号"
+        ],
+        "py2_pert": [
+            "xíng huì",
+            "xíng xiāo",
+            "xíng shǐ",
+            "xíng hào"
+        ],
+        "answer": "D"
+    },
+    "40134": {
+        "w": "调节",
+        "cnt": 1746,
+        "py1": "tiao2 jie2",
+        "py2": "tiáo jié",
+        "w_pert": [
+            "调教",
+            "条约",
+            "调解",
+            "调和"
+        ],
+        "py2_pert": [
+            "tiáo jiào",
+            "tiáo yuē",
+            "tiáo jiě",
+            "tiáo hé"
+        ],
+        "answer": "C"
+    },
+    "47172": {
+        "w": "言中",
+        "cnt": 224,
+        "py1": "yan2 zhong1",
+        "py2": "yán zhōng",
+        "w_pert": [
+            "沿用",
+            "沿着",
+            "研究",
+            "严重"
+        ],
+        "py2_pert": [
+            "yán yòng",
+            "yán zhe",
+            "yán jiū",
+            "yán zhòng"
+        ],
+        "answer": "D"
+    },
+    "30886": {
+        "w": "平静",
+        "cnt": 759,
+        "py1": "ping2 jing4",
+        "py2": "píng jìng",
+        "w_pert": [
+            "平行",
+            "瓶颈",
+            "评级",
+            "评论"
+        ],
+        "py2_pert": [
+            "píng xíng",
+            "píng jǐng",
+            "píng jí",
+            "píng lùn"
+        ],
+        "answer": "B"
+    },
+    "47145": {
+        "w": "严禁",
+        "cnt": 490,
+        "py1": "yan2 jin4",
+        "py2": "yán jìn",
+        "w_pert": [
+            "沿江",
+            "严谨",
+            "言行",
+            "颜色"
+        ],
+        "py2_pert": [
+            "yán jiāng",
+            "yán jǐn",
+            "yán xíng",
+            "yán sè"
+        ],
+        "answer": "B"
+    },
+    "53776": {
+        "w": "中性",
+        "cnt": 416,
+        "py1": "zhong1 xing4",
+        "py2": "zhōng xìng",
+        "w_pert": [
+            "中共",
+            "中学",
+            "中型",
+            "钟情"
+        ],
+        "py2_pert": [
+            "zhōng gòng",
+            "zhōng xué",
+            "zhōng xíng",
+            "zhōng qíng"
+        ],
+        "answer": "C"
+    },
+    "7564": {
+        "w": "大雪",
+        "cnt": 134,
+        "py1": "da4 xue3",
+        "py2": "dà xuě",
+        "w_pert": [
+            "大型",
+            "大学",
+            "大有",
+            "大约"
+        ],
+        "py2_pert": [
+            "dà xíng",
+            "dà xué",
+            "dà yǒu",
+            "dà yuē"
+        ],
+        "answer": "B"
+    },
+    "21818": {
+        "w": "精深",
+        "cnt": 232,
+        "py1": "jing1 shen1",
+        "py2": "jīng shēn",
+        "w_pert": [
+            "惊人",
+            "经受",
+            "经销",
+            "精神"
+        ],
+        "py2_pert": [
+            "jīng rén",
+            "jīng shòu",
+            "jīng xiāo",
+            "jīng shen"
+        ],
+        "answer": "D"
+    },
+    "14730": {
+        "w": "顾及",
+        "cnt": 195,
+        "py1": "gu4 ji2",
+        "py2": "gù jí",
+        "w_pert": [
+            "顾忌",
+            "故意",
+            "顾家",
+            "固然"
+        ],
+        "py2_pert": [
+            "gù jì",
+            "gù yì",
+            "gù jiā",
+            "gù rán"
+        ],
+        "answer": "A"
+    },
+    "52347": {
+        "w": "召集",
+        "cnt": 444,
+        "py1": "zhao4 ji2",
+        "py2": "zhào jí",
+        "w_pert": [
+            "着急",
+            "高级",
+            "中级",
+            "涉及"
+        ],
+        "py2_pert": [
+            "zháo jí",
+            "gāo jí",
+            "zhōng jí",
+            "shè jí"
+        ],
+        "answer": "A"
+    },
+    "36102": {
+        "w": "生于",
+        "cnt": 1131,
+        "py1": "sheng1 yu2",
+        "py2": "shēng yú",
+        "w_pert": [
+            "关于",
+            "剩余",
+            "人鱼",
+            "善于"
+        ],
+        "py2_pert": [
+            "guān yú",
+            "shèng yú",
+            "rén yú",
+            "shàn yú"
+        ],
+        "answer": "B"
+    },
+    "14114": {
+        "w": "公式",
+        "cnt": 423,
+        "py1": "gong1 shi4",
+        "py2": "gōng shì",
+        "w_pert": [
+            "工商",
+            "公司",
+            "工具",
+            "工时"
+        ],
+        "py2_pert": [
+            "gōng shāng",
+            "gōng sī",
+            "gōng jù",
+            "gōng shí"
+        ],
+        "answer": "D"
+    },
+    "53822": {
+        "w": "忠实",
+        "cnt": 380,
+        "py1": "zhong1 shi2",
+        "py2": "zhōng shí",
+        "w_pert": [
+            "中式",
+            "终身",
+            "中国",
+            "终止"
+        ],
+        "py2_pert": [
+            "zhōng shì",
+            "zhōng shēn",
+            "zhōng guó",
+            "zhōng zhǐ"
+        ],
+        "answer": "A"
+    },
+    "4941": {
+        "w": "成事",
+        "cnt": 178,
+        "py1": "cheng2 shi4",
+        "py2": "chéng shì",
+        "w_pert": [
+            "诚实",
+            "橙子",
+            "成熟",
+            "成立"
+        ],
+        "py2_pert": [
+            "chéng shí",
+            "chéng zǐ",
+            "chéng shú",
+            "chéng lì"
+        ],
+        "answer": "A"
+    },
+    "43913": {
+        "w": "夏季",
+        "cnt": 931,
+        "py1": "xia4 ji4",
+        "py2": "xià jì",
+        "w_pert": [
+            "下级",
+            "下面",
+            "下雨",
+            "下脚"
+        ],
+        "py2_pert": [
+            "xià jí",
+            "xià miàn",
+            "xià yǔ",
+            "xià jiǎo"
+        ],
+        "answer": "A"
+    },
+    "19654": {
+        "w": "家事",
+        "cnt": 136,
+        "py1": "jia1 shi4",
+        "py2": "jiā shì",
+        "w_pert": [
+            "怕是",
+            "竟是",
+            "优势",
+            "架势"
+        ],
+        "py2_pert": [
+            "pà shì",
+            "jìng shì",
+            "yōu shì",
+            "jià shì"
+        ],
+        "answer": "D"
+    },
+    "53681": {
+        "w": "中端",
+        "cnt": 110,
+        "py1": "zhong1 duan1",
+        "py2": "zhōng duān",
+        "w_pert": [
+            "中看",
+            "中断",
+            "中等",
+            "中央"
+        ],
+        "py2_pert": [
+            "zhōng kàn",
+            "zhōng duàn",
+            "zhōng děng",
+            "zhōng yāng"
+        ],
+        "answer": "B"
+    },
+    "19610": {
+        "w": "家居",
+        "cnt": 882,
+        "py1": "jia1 ju1",
+        "py2": "jiā jū",
+        "w_pert": [
+            "家具",
+            "加以",
+            "家教",
+            "嘉宾"
+        ],
+        "py2_pert": [
+            "jiā jù",
+            "jiā yǐ",
+            "jiā jiào",
+            "jiā bīn"
+        ],
+        "answer": "A"
+    },
+    "28288": {
+        "w": "明珠",
+        "cnt": 359,
+        "py1": "ming2 zhu1",
+        "py2": "míng zhū",
+        "w_pert": [
+            "名录",
+            "名著",
+            "明智",
+            "明星"
+        ],
+        "py2_pert": [
+            "míng lù",
+            "míng zhù",
+            "míng zhì",
+            "míng xīng"
+        ],
+        "answer": "B"
+    },
+    "16366": {
+        "w": "合唱",
+        "cnt": 189,
+        "py1": "he2 chang4",
+        "py2": "hé chàng",
+        "w_pert": [
+            "合作",
+            "合当",
+            "何尝",
+            "合成"
+        ],
+        "py2_pert": [
+            "hé zuò",
+            "hé dāng",
+            "hé cháng",
+            "hé chéng"
+        ],
+        "answer": "C"
+    },
+    "20921": {
+        "w": "接替",
+        "cnt": 114,
+        "py1": "jie1 ti4",
+        "py2": "jiē tì",
+        "w_pert": [
+            "阶梯",
+            "接通",
+            "阶级",
+            "阶段"
+        ],
+        "py2_pert": [
+            "jiē tī",
+            "jiē tōng",
+            "jiē jí",
+            "jiē duàn"
+        ],
+        "answer": "A"
+    },
+    "35297": {
+        "w": "上书",
+        "cnt": 109,
+        "py1": "shang4 shu1",
+        "py2": "shàng shū",
+        "w_pert": [
+            "上方",
+            "上世",
+            "上述",
+            "上午"
+        ],
+        "py2_pert": [
+            "shàng fāng",
+            "shàng shì",
+            "shàng shù",
+            "shàng wǔ"
+        ],
+        "answer": "C"
+    },
+    "33318": {
+        "w": "全称",
+        "cnt": 177,
+        "py1": "quan2 cheng1",
+        "py2": "quán chēng",
+        "w_pert": [
+            "全长",
+            "全新",
+            "全程",
+            "全文"
+        ],
+        "py2_pert": [
+            "quán cháng",
+            "quán xīn",
+            "quán chéng",
+            "quán wén"
+        ],
+        "answer": "C"
+    },
+    "36795": {
+        "w": "世事",
+        "cnt": 162,
+        "py1": "shi4 shi4",
+        "py2": "shì shì",
+        "w_pert": [
+            "师事",
+            "电视",
+            "收视",
+            "姿势"
+        ],
+        "py2_pert": [
+            "shī shì",
+            "diàn shì",
+            "shōu shì",
+            "zī shì"
+        ],
+        "answer": "A"
+    },
+    "21936": {
+        "w": "净利",
+        "cnt": 1163,
+        "py1": "jing4 li4",
+        "py2": "jìng lì",
+        "w_pert": [
+            "吉利",
+            "盈利",
+            "经历",
+            "大力"
+        ],
+        "py2_pert": [
+            "jí lì",
+            "yíng lì",
+            "jīng lì",
+            "dà lì"
+        ],
+        "answer": "C"
+    },
+    "20299": {
+        "w": "江水",
+        "cnt": 189,
+        "py1": "jiang1 shui3",
+        "py2": "jiāng shuǐ",
+        "w_pert": [
+            "开水",
+            "降水",
+            "净水",
+            "防水"
+        ],
+        "py2_pert": [
+            "kāi shuǐ",
+            "jiàng shuǐ",
+            "jìng shuǐ",
+            "fáng shuǐ"
+        ],
+        "answer": "B"
+    },
+    "21276": {
+        "w": "今生",
+        "cnt": 203,
+        "py1": "jin1 sheng1",
+        "py2": "jīn shēng",
+        "w_pert": [
+            "晋升",
+            "发生",
+            "民生",
+            "寄生"
+        ],
+        "py2_pert": [
+            "jìn shēng",
+            "fā shēng",
+            "mín shēng",
+            "jì shēng"
+        ],
+        "answer": "A"
+    },
+    "33097": {
+        "w": "球技",
+        "cnt": 137,
+        "py1": "qiu2 ji4",
+        "py2": "qiú jì",
+        "w_pert": [
+            "国际",
+            "后继",
+            "秋季",
+            "切记"
+        ],
+        "py2_pert": [
+            "guó jì",
+            "hòu jì",
+            "qiū jì",
+            "qiè jì"
+        ],
+        "answer": "C"
+    },
+    "43489": {
+        "w": "媳妇",
+        "cnt": 480,
+        "py1": "xi2 fu4",
+        "py2": "xí fù",
+        "w_pert": [
+            "回复",
+            "批复",
+            "吸附",
+            "修复"
+        ],
+        "py2_pert": [
+            "huí fù",
+            "pī fù",
+            "xī fù",
+            "xiū fù"
+        ],
+        "answer": "C"
+    },
+    "11875": {
+        "w": "分级",
+        "cnt": 439,
+        "py1": "fen1 ji2",
+        "py2": "fēn jí",
+        "w_pert": [
+            "分泌",
+            "氛围",
+            "分机",
+            "分家"
+        ],
+        "py2_pert": [
+            "fēn mì",
+            "fēn wéi",
+            "fēn jī",
+            "fēn jiā"
+        ],
+        "answer": "C"
+    },
+    "36234": {
+        "w": "盛名",
+        "cnt": 204,
+        "py1": "sheng4 ming2",
+        "py2": "shèng míng",
+        "w_pert": [
+            "文明",
+            "著名",
+            "说明",
+            "声明"
+        ],
+        "py2_pert": [
+            "wén míng",
+            "zhù míng",
+            "shuō míng",
+            "shēng míng"
+        ],
+        "answer": "D"
+    },
+    "30937": {
+        "w": "平整",
+        "cnt": 292,
+        "py1": "ping2 zheng3",
+        "py2": "píng zhěng",
+        "w_pert": [
+            "凭证",
+            "凭着",
+            "苹果",
+            "平衡"
+        ],
+        "py2_pert": [
+            "píng zhèng",
+            "píng zhe",
+            "píng guǒ",
+            "píng héng"
+        ],
+        "answer": "A"
+    },
+    "7311": {
+        "w": "大度",
+        "cnt": 127,
+        "py1": "da4 du4",
+        "py2": "dà dù",
+        "w_pert": [
+            "大多",
+            "大都",
+            "大叔",
+            "大概"
+        ],
+        "py2_pert": [
+            "dà duō",
+            "dà dū",
+            "dà shū",
+            "dà gài"
+        ],
+        "answer": "B"
+    },
+    "13975": {
+        "w": "工序",
+        "cnt": 281,
+        "py1": "gong1 xu4",
+        "py2": "gōng xù",
+        "w_pert": [
+            "工期",
+            "供需",
+            "工薪",
+            "公路"
+        ],
+        "py2_pert": [
+            "gōng qī",
+            "gōng xū",
+            "gōng xīn",
+            "gōng lù"
+        ],
+        "answer": "B"
+    },
+    "53296": {
+        "w": "职教",
+        "cnt": 124,
+        "py1": "zhi2 jiao1",
+        "py2": "zhí jiāo",
+        "w_pert": [
+            "直播",
+            "直到",
+            "直径",
+            "执教"
+        ],
+        "py2_pert": [
+            "zhí bō",
+            "zhí dào",
+            "zhí jìng",
+            "zhí jiào"
+        ],
+        "answer": "D"
+    },
+    "12869": {
+        "w": "富商",
+        "cnt": 117,
+        "py1": "fu4 shang1",
+        "py2": "fù shāng",
+        "w_pert": [
+            "腹胀",
+            "附上",
+            "附属",
+            "付出"
+        ],
+        "py2_pert": [
+            "fù zhàng",
+            "fù shàng",
+            "fù shǔ",
+            "fù chū"
+        ],
+        "answer": "B"
+    },
+    "43375": {
+        "w": "悉数",
+        "cnt": 221,
+        "py1": "xi1 shu4",
+        "py2": "xī shù",
+        "w_pert": [
+            "艺术",
+            "系数",
+            "约束",
+            "学术"
+        ],
+        "py2_pert": [
+            "yì shù",
+            "xì shù",
+            "yuē shù",
+            "xué shù"
+        ],
+        "answer": "B"
+    },
+    "36574": {
+        "w": "时时",
+        "cnt": 498,
+        "py1": "shi2 shi2",
+        "py2": "shí shí",
+        "w_pert": [
+            "时尚",
+            "识别",
+            "实事",
+            "时日"
+        ],
+        "py2_pert": [
+            "shí shàng",
+            "shí bié",
+            "shí shì",
+            "shí rì"
+        ],
+        "answer": "C"
+    },
+    "35993": {
+        "w": "生成",
+        "cnt": 930,
+        "py1": "sheng1 cheng2",
+        "py2": "shēng chéng",
+        "w_pert": [
+            "升温",
+            "生活",
+            "生产",
+            "声称"
+        ],
+        "py2_pert": [
+            "shēng wēn",
+            "shēng huó",
+            "shēng chǎn",
+            "shēng chēng"
+        ],
+        "answer": "D"
+    },
+    "32868": {
+        "w": "情商",
+        "cnt": 436,
+        "py1": "qing2 shang1",
+        "py2": "qíng shāng",
+        "w_pert": [
+            "轻伤",
+            "协商",
+            "券商",
+            "经商"
+        ],
+        "py2_pert": [
+            "qīng shāng",
+            "xié shāng",
+            "quàn shāng",
+            "jīng shāng"
+        ],
+        "answer": "A"
+    },
+    "5824": {
+        "w": "初级",
+        "cnt": 389,
+        "py1": "chu1 ji2",
+        "py2": "chū jí",
+        "w_pert": [
+            "出来",
+            "出境",
+            "初期",
+            "出击"
+        ],
+        "py2_pert": [
+            "chū lái",
+            "chū jìng",
+            "chū qī",
+            "chū jī"
+        ],
+        "answer": "D"
+    },
+    "54010": {
+        "w": "重现",
+        "cnt": 284,
+        "py1": "zhong4 xian4",
+        "py2": "zhòng xiàn",
+        "w_pert": [
+            "红线",
+            "在线",
+            "直线",
+            "中线"
+        ],
+        "py2_pert": [
+            "hóng xiàn",
+            "zài xiàn",
+            "zhí xiàn",
+            "zhōng xiàn"
+        ],
+        "answer": "D"
+    },
+    "12363": {
+        "w": "奉行",
+        "cnt": 104,
+        "py1": "feng4 xing2",
+        "py2": "fèng xíng",
+        "w_pert": [
+            "发行",
+            "进行",
+            "风行",
+            "通行"
+        ],
+        "py2_pert": [
+            "fā xíng",
+            "jìn xíng",
+            "fēng xíng",
+            "tōng xíng"
+        ],
+        "answer": "C"
+    },
+    "32023": {
+        "w": "潜伏",
+        "cnt": 210,
+        "py1": "qian2 fu2",
+        "py2": "qián fú",
+        "w_pert": [
+            "前方",
+            "潜入",
+            "前提",
+            "前夫"
+        ],
+        "py2_pert": [
+            "qián fāng",
+            "qián rù",
+            "qián tí",
+            "qián fū"
+        ],
+        "answer": "D"
+    },
+    "22873": {
+        "w": "开放",
+        "cnt": 3714,
+        "py1": "kai1 fang4",
+        "py2": "kāi fàng",
+        "w_pert": [
+            "开发",
+            "开场",
+            "开方",
+            "开幕"
+        ],
+        "py2_pert": [
+            "kāi fā",
+            "kāi chǎng",
+            "kāi fāng",
+            "kāi mù"
+        ],
+        "answer": "C"
+    },
+    "35281": {
+        "w": "上家",
+        "cnt": 134,
+        "py1": "shang4 jia1",
+        "py2": "shàng jiā",
+        "w_pert": [
+            "更加",
+            "商家",
+            "施加",
+            "皇家"
+        ],
+        "py2_pert": [
+            "gèng jiā",
+            "shāng jiā",
+            "shī jiā",
+            "huáng jiā"
+        ],
+        "answer": "B"
+    },
+    "2115": {
+        "w": "编辑",
+        "cnt": 4652,
+        "py1": "bian1 ji2",
+        "py2": "biān jí",
+        "w_pert": [
+            "编译",
+            "边界",
+            "边际",
+            "边缘"
+        ],
+        "py2_pert": [
+            "biān yì",
+            "biān jiè",
+            "biān jì",
+            "biān yuán"
+        ],
+        "answer": "C"
+    },
+    "7537": {
+        "w": "大喜",
+        "cnt": 124,
+        "py1": "da4 xi3",
+        "py2": "dà xǐ",
+        "w_pert": [
+            "大限",
+            "大海",
+            "大戏",
+            "大气"
+        ],
+        "py2_pert": [
+            "dà xiàn",
+            "dà hǎi",
+            "dà xì",
+            "dà qi"
+        ],
+        "answer": "C"
+    },
+    "13497": {
+        "w": "高超",
+        "cnt": 255,
+        "py1": "gao1 chao1",
+        "py2": "gāo chāo",
+        "w_pert": [
+            "高产",
+            "高端",
+            "高效",
+            "高潮"
+        ],
+        "py2_pert": [
+            "gāo chǎn",
+            "gāo duān",
+            "gāo xiào",
+            "gāo cháo"
+        ],
+        "answer": "D"
+    },
+    "5683": {
+        "w": "出局",
+        "cnt": 454,
+        "py1": "chu1 ju2",
+        "py2": "chū jú",
+        "w_pert": [
+            "出力",
+            "出行",
+            "出家",
+            "出具"
+        ],
+        "py2_pert": [
+            "chū lì",
+            "chū xíng",
+            "chū jiā",
+            "chū jù"
+        ],
+        "answer": "D"
+    },
+    "36898": {
+        "w": "事务",
+        "cnt": 1562,
+        "py1": "shi4 wu4",
+        "py2": "shì wù",
+        "w_pert": [
+            "生物",
+            "失误",
+            "职务",
+            "业务"
+        ],
+        "py2_pert": [
+            "shēng wù",
+            "shī wù",
+            "zhí wù",
+            "yè wù"
+        ],
+        "answer": "B"
+    },
+    "36626": {
+        "w": "实干",
+        "cnt": 194,
+        "py1": "shi2 gan4",
+        "py2": "shí gàn",
+        "w_pert": [
+            "石板",
+            "实现",
+            "实感",
+            "时光"
+        ],
+        "py2_pert": [
+            "shí bǎn",
+            "shí xiàn",
+            "shí gǎn",
+            "shí guāng"
+        ],
+        "answer": "C"
+    },
+    "19454": {
+        "w": "继承",
+        "cnt": 807,
+        "py1": "ji4 cheng2",
+        "py2": "jì chéng",
+        "w_pert": [
+            "集成",
+            "京城",
+            "过程",
+            "提成"
+        ],
+        "py2_pert": [
+            "jí chéng",
+            "jīng chéng",
+            "guò chéng",
+            "tí chéng"
+        ],
+        "answer": "A"
+    },
+    "37760": {
+        "w": "树脂",
+        "cnt": 112,
+        "py1": "shu4 zhi1",
+        "py2": "shù zhī",
+        "w_pert": [
+            "熟知",
+            "告知",
+            "无知",
+            "谁知"
+        ],
+        "py2_pert": [
+            "shú zhī",
+            "gào zhī",
+            "wú zhī",
+            "shéi zhī"
+        ],
+        "answer": "A"
+    },
+    "8777": {
+        "w": "地价",
+        "cnt": 219,
+        "py1": "di4 jia4",
+        "py2": "dì jià",
+        "w_pert": [
+            "单价",
+            "低价",
+            "提价",
+            "售价"
+        ],
+        "py2_pert": [
+            "dān jià",
+            "dī jià",
+            "tí jià",
+            "shòu jià"
+        ],
+        "answer": "B"
+    },
+    "52952": {
+        "w": "正中",
+        "cnt": 228,
+        "py1": "zheng4 zhong1",
+        "py2": "zhèng zhōng",
+        "w_pert": [
+            "证书",
+            "症状",
+            "郑重",
+            "正统"
+        ],
+        "py2_pert": [
+            "zhèng shū",
+            "zhèng zhuàng",
+            "zhèng zhòng",
+            "zhèng tǒng"
+        ],
+        "answer": "C"
+    },
+    "36649": {
+        "w": "实体",
+        "cnt": 1533,
+        "py1": "shi2 ti3",
+        "py2": "shí tǐ",
+        "w_pert": [
+            "尸体",
+            "字体",
+            "身体",
+            "媒体"
+        ],
+        "py2_pert": [
+            "shī tǐ",
+            "zì tǐ",
+            "shēn tǐ",
+            "méi tǐ"
+        ],
+        "answer": "A"
+    },
+    "19889": {
+        "w": "坚毅",
+        "cnt": 101,
+        "py1": "jian1 yi4",
+        "py2": "jiān yì",
+        "w_pert": [
+            "建议",
+            "记忆",
+            "收益",
+            "愿意"
+        ],
+        "py2_pert": [
+            "jiàn yì",
+            "jì yì",
+            "shōu yì",
+            "yuàn yì"
+        ],
+        "answer": "A"
+    },
+    "37126": {
+        "w": "收受",
+        "cnt": 215,
+        "py1": "shou1 shou4",
+        "py2": "shōu shòu",
+        "w_pert": [
+            "收拾",
+            "收入",
+            "收手",
+            "收口"
+        ],
+        "py2_pert": [
+            "shōu shi",
+            "shōu rù",
+            "shōu shǒu",
+            "shōu kǒu"
+        ],
+        "answer": "C"
+    },
+    "16154": {
+        "w": "毫克",
+        "cnt": 157,
+        "py1": "hao2 ke4",
+        "py2": "háo kè",
+        "w_pert": [
+            "时刻",
+            "雕刻",
+            "黑客",
+            "好客"
+        ],
+        "py2_pert": [
+            "shí kè",
+            "diāo kè",
+            "hēi kè",
+            "hào kè"
+        ],
+        "answer": "D"
+    },
+    "7209": {
+        "w": "大吉",
+        "cnt": 159,
+        "py1": "da4 ji2",
+        "py2": "dà jí",
+        "w_pert": [
+            "大批",
+            "大计",
+            "大军",
+            "大门"
+        ],
+        "py2_pert": [
+            "dà pī",
+            "dà jì",
+            "dà jūn",
+            "dà mén"
+        ],
+        "answer": "B"
+    },
+    "45571": {
+        "w": "新任",
+        "cnt": 249,
+        "py1": "xin1 ren4",
+        "py2": "xīn rèn",
+        "w_pert": [
+            "欣然",
+            "新闻",
+            "新人",
+            "心脏"
+        ],
+        "py2_pert": [
+            "xīn rán",
+            "xīn wén",
+            "xīn rén",
+            "xīn zàng"
+        ],
+        "answer": "C"
+    },
+    "12739": {
+        "w": "附中",
+        "cnt": 113,
+        "py1": "fu4 zhong1",
+        "py2": "fù zhōng",
+        "w_pert": [
+            "副总",
+            "负重",
+            "复制",
+            "父亲"
+        ],
+        "py2_pert": [
+            "fù zǒng",
+            "fù zhòng",
+            "fù zhì",
+            "fù qīn"
+        ],
+        "answer": "B"
+    },
+    "19220": {
+        "w": "集聚",
+        "cnt": 470,
+        "py1": "ji2 ju4",
+        "py2": "jí jù",
+        "w_pert": [
+            "积聚",
+            "艰巨",
+            "玩具",
+            "依据"
+        ],
+        "py2_pert": [
+            "jī jù",
+            "jiān jù",
+            "wán jù",
+            "yī jù"
+        ],
+        "answer": "A"
+    },
+    "52060": {
+        "w": "战机",
+        "cnt": 204,
+        "py1": "zhan4 ji1",
+        "py2": "zhàn jī",
+        "w_pert": [
+            "战绩",
+            "占地",
+            "战争",
+            "战舰"
+        ],
+        "py2_pert": [
+            "zhàn jì",
+            "zhàn dì",
+            "zhàn zhēng",
+            "zhàn jiàn"
+        ],
+        "answer": "A"
+    },
+    "17333": {
+        "w": "互利",
+        "cnt": 236,
+        "py1": "hu4 li4",
+        "py2": "hù lì",
+        "w_pert": [
+            "护栏",
+            "护理",
+            "户籍",
+            "互动"
+        ],
+        "py2_pert": [
+            "hù lán",
+            "hù lǐ",
+            "hù jí",
+            "hù dòng"
+        ],
+        "answer": "B"
+    },
+    "7349": {
+        "w": "大好",
+        "cnt": 528,
+        "py1": "da4 hao3",
+        "py2": "dà hǎo",
+        "w_pert": [
+            "大选",
+            "大道",
+            "大会",
+            "大号"
+        ],
+        "py2_pert": [
+            "dà xuǎn",
+            "dà dào",
+            "dà huì",
+            "dà hào"
+        ],
+        "answer": "D"
+    },
+    "22006": {
+        "w": "敬意",
+        "cnt": 155,
+        "py1": "jing4 yi4",
+        "py2": "jìng yì",
+        "w_pert": [
+            "民意",
+            "经意",
+            "会议",
+            "决议"
+        ],
+        "py2_pert": [
+            "mín yì",
+            "jīng yì",
+            "huì yì",
+            "jué yì"
+        ],
+        "answer": "B"
+    },
+    "36722": {
+        "w": "食用",
+        "cnt": 1414,
+        "py1": "shi2 yong4",
+        "py2": "shí yòng",
+        "w_pert": [
+            "适用",
+            "常用",
+            "商用",
+            "日用"
+        ],
+        "py2_pert": [
+            "shì yòng",
+            "cháng yòng",
+            "shāng yòng",
+            "rì yòng"
+        ],
+        "answer": "A"
+    },
+    "36448": {
+        "w": "十佳",
+        "cnt": 208,
+        "py1": "shi2 jia1",
+        "py2": "shí jiā",
+        "w_pert": [
+            "时价",
+            "时下",
+            "时节",
+            "时期"
+        ],
+        "py2_pert": [
+            "shí jià",
+            "shí xià",
+            "shí jié",
+            "shí qī"
+        ],
+        "answer": "A"
+    },
+    "42968": {
+        "w": "无需",
+        "cnt": 1226,
+        "py1": "wu2 xu1",
+        "py2": "wú xū",
+        "w_pert": [
+            "无序",
+            "无意",
+            "无限",
+            "无关"
+        ],
+        "py2_pert": [
+            "wú xù",
+            "wú yì",
+            "wú xiàn",
+            "wú guān"
+        ],
+        "answer": "A"
+    },
+    "2657": {
+        "w": "病理",
+        "cnt": 212,
+        "py1": "bing4 li3",
+        "py2": "bìng lǐ",
+        "w_pert": [
+            "并且",
+            "摒弃",
+            "并列",
+            "病例"
+        ],
+        "py2_pert": [
+            "bìng qiě",
+            "bìng qì",
+            "bìng liè",
+            "bìng lì"
+        ],
+        "answer": "D"
+    },
+    "42370": {
+        "w": "位居",
+        "cnt": 662,
+        "py1": "wei4 ju1",
+        "py2": "wèi jū",
+        "w_pert": [
+            "位于",
+            "畏惧",
+            "卫星",
+            "味觉"
+        ],
+        "py2_pert": [
+            "wèi yú",
+            "wèi jù",
+            "wèi xīng",
+            "wèi jué"
+        ],
+        "answer": "B"
+    },
+    "16392": {
+        "w": "合力",
+        "cnt": 598,
+        "py1": "he2 li4",
+        "py2": "hé lì",
+        "w_pert": [
+            "合理",
+            "合并",
+            "荷兰",
+            "合计"
+        ],
+        "py2_pert": [
+            "hé lǐ",
+            "hé bìng",
+            "hé lán",
+            "hé ji"
+        ],
+        "answer": "A"
+    },
+    "36927": {
+        "w": "势力",
+        "cnt": 490,
+        "py1": "shi4 li4",
+        "py2": "shì lì",
+        "w_pert": [
+            "世界",
+            "市里",
+            "市区",
+            "适龄"
+        ],
+        "py2_pert": [
+            "shì jiè",
+            "shì lǐ",
+            "shì qū",
+            "shì líng"
+        ],
+        "answer": "B"
+    },
+    "9058": {
+        "w": "电机",
+        "cnt": 429,
+        "py1": "dian4 ji1",
+        "py2": "diàn jī",
+        "w_pert": [
+            "电压",
+            "惦记",
+            "电力",
+            "电解"
+        ],
+        "py2_pert": [
+            "diàn yā",
+            "diàn jì",
+            "diàn lì",
+            "diàn jiě"
+        ],
+        "answer": "B"
+    },
+    "19383": {
+        "w": "纪实",
+        "cnt": 112,
+        "py1": "ji4 shi2",
+        "py2": "jì shí",
+        "w_pert": [
+            "结石",
+            "事实",
+            "及时",
+            "衣食"
+        ],
+        "py2_pert": [
+            "jié shí",
+            "shì shí",
+            "jí shí",
+            "yī shí"
+        ],
+        "answer": "C"
+    },
+    "49018": {
+        "w": "溢出",
+        "cnt": 174,
+        "py1": "yi4 chu1",
+        "py2": "yì chū",
+        "w_pert": [
+            "义务",
+            "义工",
+            "异常",
+            "益处"
+        ],
+        "py2_pert": [
+            "yì wù",
+            "yì gōng",
+            "yì cháng",
+            "yì chu"
+        ],
+        "answer": "D"
+    },
+    "11089": {
+        "w": "烦心",
+        "cnt": 118,
+        "py1": "fan2 xin1",
+        "py2": "fán xīn",
+        "w_pert": [
+            "核心",
+            "翻新",
+            "放心",
+            "担心"
+        ],
+        "py2_pert": [
+            "hé xīn",
+            "fān xīn",
+            "fàng xīn",
+            "dān xīn"
+        ],
+        "answer": "B"
+    },
+    "36956": {
+        "w": "视线",
+        "cnt": 626,
+        "py1": "shi4 xian4",
+        "py2": "shì xiàn",
+        "w_pert": [
+            "深陷",
+            "贡献",
+            "支线",
+            "时限"
+        ],
+        "py2_pert": [
+            "shēn xiàn",
+            "gòng xiàn",
+            "zhī xiàn",
+            "shí xiàn"
+        ],
+        "answer": "D"
+    },
+    "22332": {
+        "w": "局势",
+        "cnt": 504,
+        "py1": "ju2 shi4",
+        "py2": "jú shì",
+        "w_pert": [
+            "教室",
+            "居室",
+            "从事",
+            "去世"
+        ],
+        "py2_pert": [
+            "jiào shì",
+            "jū shì",
+            "cóng shì",
+            "qù shì"
+        ],
+        "answer": "B"
+    },
+    "24283": {
+        "w": "来使",
+        "cnt": 128,
+        "py1": "lai2 shi3",
+        "py2": "lái shǐ",
+        "w_pert": [
+            "来世",
+            "来往",
+            "来自",
+            "来生"
+        ],
+        "py2_pert": [
+            "lái shì",
+            "lái wǎng",
+            "lái zì",
+            "lái shēng"
+        ],
+        "answer": "A"
+    },
+    "53202": {
+        "w": "执行",
+        "cnt": 4316,
+        "py1": "zhi2 xing2",
+        "py2": "zhí xíng",
+        "w_pert": [
+            "试行",
+            "支行",
+            "前行",
+            "重型"
+        ],
+        "py2_pert": [
+            "shì xíng",
+            "zhī xíng",
+            "qián xíng",
+            "zhòng xíng"
+        ],
+        "answer": "B"
+    },
+    "50018": {
+        "w": "油性",
+        "cnt": 146,
+        "py1": "you2 xing4",
+        "py2": "yóu xìng",
+        "w_pert": [
+            "游行",
+            "游客",
+            "邮箱",
+            "油品"
+        ],
+        "py2_pert": [
+            "yóu xíng",
+            "yóu kè",
+            "yóu xiāng",
+            "yóu pǐn"
+        ],
+        "answer": "A"
+    },
+    "51468": {
+        "w": "在先",
+        "cnt": 209,
+        "py1": "zai4 xian1",
+        "py2": "zài xiān",
+        "w_pert": [
+            "在家",
+            "再现",
+            "在建",
+            "在下"
+        ],
+        "py2_pert": [
+            "zài jiā",
+            "zài xiàn",
+            "zài jiàn",
+            "zài xià"
+        ],
+        "answer": "B"
+    },
+    "16621": {
+        "w": "盒子",
+        "cnt": 376,
+        "py1": "he2 zi3",
+        "py2": "hé zǐ",
+        "w_pert": [
+            "何在",
+            "核实",
+            "合法",
+            "合资"
+        ],
+        "py2_pert": [
+            "hé zài",
+            "hé shí",
+            "hé fǎ",
+            "hé zī"
+        ],
+        "answer": "D"
+    },
+    "21811": {
+        "w": "精气",
+        "cnt": 145,
+        "py1": "jing1 qi4",
+        "py2": "jīng qì",
+        "w_pert": [
+            "经验",
+            "精巧",
+            "晶体",
+            "经期"
+        ],
+        "py2_pert": [
+            "jīng yàn",
+            "jīng qiǎo",
+            "jīng tǐ",
+            "jīng qī"
+        ],
+        "answer": "D"
+    },
+    "12868": {
+        "w": "富人",
+        "cnt": 282,
+        "py1": "fu4 ren2",
+        "py2": "fù rén",
+        "w_pert": [
+            "凡人",
+            "无人",
+            "夫人",
+            "个人"
+        ],
+        "py2_pert": [
+            "fán rén",
+            "wú rén",
+            "fū rén",
+            "gè rén"
+        ],
+        "answer": "C"
+    },
+    "7664": {
+        "w": "代步",
+        "cnt": 167,
+        "py1": "dai4 bu4",
+        "py2": "dài bù",
+        "w_pert": [
+            "带动",
+            "逮捕",
+            "代表",
+            "大夫"
+        ],
+        "py2_pert": [
+            "dài dòng",
+            "dài bǔ",
+            "dài biǎo",
+            "dài fū"
+        ],
+        "answer": "B"
+    },
+    "55262": {
+        "w": "自理",
+        "cnt": 282,
+        "py1": "zi4 li3",
+        "py2": "zì lǐ",
+        "w_pert": [
+            "自我",
+            "自立",
+            "自习",
+            "自来"
+        ],
+        "py2_pert": [
+            "zì wǒ",
+            "zì lì",
+            "zì xí",
+            "zì lái"
+        ],
+        "answer": "B"
+    },
+    "37598": {
+        "w": "疏松",
+        "cnt": 143,
+        "py1": "shu1 song1",
+        "py2": "shū sōng",
+        "w_pert": [
+            "殊荣",
+            "叔叔",
+            "疏散",
+            "输送"
+        ],
+        "py2_pert": [
+            "shū róng",
+            "shū shū",
+            "shū sàn",
+            "shū sòng"
+        ],
+        "answer": "D"
+    },
+    "21244": {
+        "w": "借贷",
+        "cnt": 412,
+        "py1": "jie4 dai4",
+        "py2": "jiè dài",
+        "w_pert": [
+            "接待",
+            "交代",
+            "携带",
+            "现代"
+        ],
+        "py2_pert": [
+            "jiē dài",
+            "jiāo dài",
+            "xié dài",
+            "xiàn dài"
+        ],
+        "answer": "A"
+    },
+    "17354": {
+        "w": "户型",
+        "cnt": 419,
+        "py1": "hu4 xing2",
+        "py2": "hù xíng",
+        "w_pert": [
+            "弧形",
+            "运行",
+            "无形",
+            "航行"
+        ],
+        "py2_pert": [
+            "hú xíng",
+            "yùn xíng",
+            "wú xíng",
+            "háng xíng"
+        ],
+        "answer": "A"
+    },
+    "44064": {
+        "w": "闲置",
+        "cnt": 364,
+        "py1": "xian2 zhi4",
+        "py2": "xián zhì",
+        "w_pert": [
+            "性质",
+            "编制",
+            "截至",
+            "限制"
+        ],
+        "py2_pert": [
+            "xìng zhì",
+            "biān zhì",
+            "jié zhì",
+            "xiàn zhì"
+        ],
+        "answer": "D"
+    },
+    "22416": {
+        "w": "巨资",
+        "cnt": 179,
+        "py1": "ju4 zi1",
+        "py2": "jù zī",
+        "w_pert": [
+            "剧组",
+            "据此",
+            "句子",
+            "据说"
+        ],
+        "py2_pert": [
+            "jù zǔ",
+            "jù cǐ",
+            "jù zi",
+            "jù shuō"
+        ],
+        "answer": "C"
+    },
+    "52963": {
+        "w": "证据",
+        "cnt": 1198,
+        "py1": "zheng4 ju4",
+        "py2": "zhèng jù",
+        "w_pert": [
+            "政区",
+            "政策",
+            "政局",
+            "正经"
+        ],
+        "py2_pert": [
+            "zhèng qū",
+            "zhèng cè",
+            "zhèng jú",
+            "zhèng jing"
+        ],
+        "answer": "C"
+    },
+    "19971": {
+        "w": "监制",
+        "cnt": 228,
+        "py1": "jian1 zhi4",
+        "py2": "jiān zhì",
+        "w_pert": [
+            "建制",
+            "优质",
+            "研制",
+            "极致"
+        ],
+        "py2_pert": [
+            "jiàn zhì",
+            "yōu zhì",
+            "yán zhì",
+            "jí zhì"
+        ],
+        "answer": "A"
+    },
+    "53946": {
+        "w": "众生",
+        "cnt": 410,
+        "py1": "zhong4 sheng1",
+        "py2": "zhòng shēng",
+        "w_pert": [
+            "陌生",
+            "终生",
+            "招生",
+            "重生"
+        ],
+        "py2_pert": [
+            "mò shēng",
+            "zhōng shēng",
+            "zhāo shēng",
+            "chóng shēng"
+        ],
+        "answer": "B"
+    },
+    "21228": {
+        "w": "界限",
+        "cnt": 328,
+        "py1": "jie4 xian4",
+        "py2": "jiè xiàn",
+        "w_pert": [
+            "接线",
+            "上线",
+            "局限",
+            "缺陷"
+        ],
+        "py2_pert": [
+            "jiē xiàn",
+            "shàng xiàn",
+            "jú xiàn",
+            "quē xiàn"
+        ],
+        "answer": "A"
+    },
+    "53036": {
+        "w": "之首",
+        "cnt": 290,
+        "py1": "zhi1 shou3",
+        "py2": "zhī shǒu",
+        "w_pert": [
+            "自首",
+            "遵守",
+            "职守",
+            "助手"
+        ],
+        "py2_pert": [
+            "zì shǒu",
+            "zūn shǒu",
+            "zhí shǒu",
+            "zhù shǒu"
+        ],
+        "answer": "C"
+    },
+    "36293": {
+        "w": "失利",
+        "cnt": 284,
+        "py1": "shi1 li4",
+        "py2": "shī lì",
+        "w_pert": [
+            "视力",
+            "致力",
+            "设立",
+            "专利"
+        ],
+        "py2_pert": [
+            "shì lì",
+            "zhì lì",
+            "shè lì",
+            "zhuān lì"
+        ],
+        "answer": "A"
+    },
+    "31396": {
+        "w": "歧视",
+        "cnt": 239,
+        "py1": "qi2 shi4",
+        "py2": "qí shì",
+        "w_pert": [
+            "轻视",
+            "预示",
+            "气势",
+            "尝试"
+        ],
+        "py2_pert": [
+            "qīng shì",
+            "yù shì",
+            "qì shì",
+            "cháng shì"
+        ],
+        "answer": "C"
+    },
+    "53004": {
+        "w": "政权",
+        "cnt": 294,
+        "py1": "zheng4 quan2",
+        "py2": "zhèng quán",
+        "w_pert": [
+            "证券",
+            "正确",
+            "正面",
+            "正常"
+        ],
+        "py2_pert": [
+            "zhèng quàn",
+            "zhèng què",
+            "zhèng miàn",
+            "zhèng cháng"
+        ],
+        "answer": "A"
+    },
+    "53945": {
+        "w": "众人",
+        "cnt": 843,
+        "py1": "zhong4 ren2",
+        "py2": "zhòng rén",
+        "w_pert": [
+            "同人",
+            "中人",
+            "真人",
+            "内人"
+        ],
+        "py2_pert": [
+            "tóng rén",
+            "zhōng rén",
+            "zhēn rén",
+            "nèi rén"
+        ],
+        "answer": "B"
+    },
+    "50610": {
+        "w": "玉石",
+        "cnt": 192,
+        "py1": "yu4 shi2",
+        "py2": "yù shí",
+        "w_pert": [
+            "预知",
+            "预售",
+            "浴室",
+            "预防"
+        ],
+        "py2_pert": [
+            "yù zhī",
+            "yù shòu",
+            "yù shì",
+            "yù fáng"
+        ],
+        "answer": "C"
+    },
+    "18978": {
+        "w": "基金",
+        "cnt": 3309,
+        "py1": "ji1 jin1",
+        "py2": "jī jīn",
+        "w_pert": [
+            "激情",
+            "激进",
+            "积极",
+            "几乎"
+        ],
+        "py2_pert": [
+            "jī qíng",
+            "jī jìn",
+            "jī jí",
+            "jī hū"
+        ],
+        "answer": "B"
+    },
+    "18344": {
+        "w": "会战",
+        "cnt": 109,
+        "py1": "hui4 zhan4",
+        "py2": "huì zhàn",
+        "w_pert": [
+            "会诊",
+            "会谈",
+            "会展",
+            "汇率"
+        ],
+        "py2_pert": [
+            "huì zhěn",
+            "huì tán",
+            "huì zhǎn",
+            "huì lǜ"
+        ],
+        "answer": "C"
+    },
+    "15544": {
+        "w": "国旗",
+        "cnt": 157,
+        "py1": "guo2 qi2",
+        "py2": "guó qí",
+        "w_pert": [
+            "国医",
+            "国庆",
+            "国企",
+            "国人"
+        ],
+        "py2_pert": [
+            "guó yī",
+            "guó qìng",
+            "guó qǐ",
+            "guó rén"
+        ],
+        "answer": "C"
+    },
+    "43195": {
+        "w": "物力",
+        "cnt": 162,
+        "py1": "wu4 li4",
+        "py2": "wù lì",
+        "w_pert": [
+            "物质",
+            "物理",
+            "物流",
+            "物体"
+        ],
+        "py2_pert": [
+            "wù zhì",
+            "wù lǐ",
+            "wù liú",
+            "wù tǐ"
+        ],
+        "answer": "B"
+    },
+    "12163": {
+        "w": "风靡",
+        "cnt": 365,
+        "py1": "feng1 mi3",
+        "py2": "fēng mǐ",
+        "w_pert": [
+            "风险",
+            "蜂蜜",
+            "风貌",
+            "封闭"
+        ],
+        "py2_pert": [
+            "fēng xiǎn",
+            "fēng mì",
+            "fēng mào",
+            "fēng bì"
+        ],
+        "answer": "B"
+    },
+    "44193": {
+        "w": "现形",
+        "cnt": 222,
+        "py1": "xian4 xing2",
+        "py2": "xiàn xíng",
+        "w_pert": [
+            "修行",
+            "圆形",
+            "类型",
+            "先行"
+        ],
+        "py2_pert": [
+            "xiū xíng",
+            "yuán xíng",
+            "lèi xíng",
+            "xiān xíng"
+        ],
+        "answer": "D"
+    },
+    "22836": {
+        "w": "开始",
+        "cnt": 18450,
+        "py1": "kai1 shi3",
+        "py2": "kāi shǐ",
+        "w_pert": [
+            "开支",
+            "开市",
+            "开展",
+            "开设"
+        ],
+        "py2_pert": [
+            "kāi zhī",
+            "kāi shì",
+            "kāi zhǎn",
+            "kāi shè"
+        ],
+        "answer": "B"
+    },
+    "12076": {
+        "w": "丰盛",
+        "cnt": 163,
+        "py1": "feng1 sheng4",
+        "py2": "fēng shèng",
+        "w_pert": [
+            "风筝",
+            "风水",
+            "丰富",
+            "风声"
+        ],
+        "py2_pert": [
+            "fēng zhēng",
+            "fēng shuǐ",
+            "fēng fù",
+            "fēng shēng"
+        ],
+        "answer": "D"
+    },
+    "18991": {
+        "w": "基于",
+        "cnt": 2676,
+        "py1": "ji1 yu2",
+        "py2": "jī yú",
+        "w_pert": [
+            "鉴于",
+            "急于",
+            "利于",
+            "终于"
+        ],
+        "py2_pert": [
+            "jiàn yú",
+            "jí yú",
+            "lì yú",
+            "zhōng yú"
+        ],
+        "answer": "B"
+    },
+    "18240": {
+        "w": "回忆",
+        "cnt": 1824,
+        "py1": "hui2 yi4",
+        "py2": "huí yì",
+        "w_pert": [
+            "同意",
+            "退役",
+            "获益",
+            "会意"
+        ],
+        "py2_pert": [
+            "tóng yì",
+            "tuì yì",
+            "huò yì",
+            "huì yì"
+        ],
+        "answer": "D"
+    },
+    "54785": {
+        "w": "装置",
+        "cnt": 969,
+        "py1": "zhuang1 zhi4",
+        "py2": "zhuāng zhì",
+        "w_pert": [
+            "壮志",
+            "强制",
+            "直至",
+            "标志"
+        ],
+        "py2_pert": [
+            "zhuàng zhì",
+            "qiáng zhì",
+            "zhí zhì",
+            "biāo zhì"
+        ],
+        "answer": "A"
+    },
+    "55293": {
+        "w": "自燃",
+        "cnt": 103,
+        "py1": "zi4 ran2",
+        "py2": "zì rán",
+        "w_pert": [
+            "自传",
+            "自由",
+            "自然",
+            "自认"
+        ],
+        "py2_pert": [
+            "zì zhuàn",
+            "zì yóu",
+            "zì ran",
+            "zì rèn"
+        ],
+        "answer": "C"
+    },
+    "55031": {
+        "w": "资深",
+        "cnt": 1177,
+        "py1": "zi1 shen1",
+        "py2": "zī shēn",
+        "w_pert": [
+            "置身",
+            "纵深",
+            "自身",
+            "车身"
+        ],
+        "py2_pert": [
+            "zhì shēn",
+            "zòng shēn",
+            "zì shēn",
+            "chē shēn"
+        ],
+        "answer": "C"
+    },
+    "22907": {
+        "w": "开具",
+        "cnt": 238,
+        "py1": "kai1 ju4",
+        "py2": "kāi jù",
+        "w_pert": [
+            "开局",
+            "开拓",
+            "开启",
+            "开奖"
+        ],
+        "py2_pert": [
+            "kāi jú",
+            "kāi tuò",
+            "kāi qǐ",
+            "kāi jiǎng"
+        ],
+        "answer": "A"
+    },
+    "45807": {
+        "w": "行事",
+        "cnt": 351,
+        "py1": "xing2 shi4",
+        "py2": "xíng shì",
+        "w_pert": [
+            "应试",
+            "姓氏",
+            "先是",
+            "提示"
+        ],
+        "py2_pert": [
+            "yìng shì",
+            "xìng shì",
+            "xiān shì",
+            "tí shì"
+        ],
+        "answer": "B"
+    },
+    "7382": {
+        "w": "大节",
+        "cnt": 116,
+        "py1": "da4 jie2",
+        "py2": "dà jié",
+        "w_pert": [
+            "大姐",
+            "大于",
+            "大举",
+            "大跌"
+        ],
+        "py2_pert": [
+            "dà jiě",
+            "dà yú",
+            "dà jǔ",
+            "dà diē"
+        ],
+        "answer": "A"
+    },
+    "53078": {
+        "w": "支援",
+        "cnt": 344,
+        "py1": "zhi1 yuan2",
+        "py2": "zhī yuán",
+        "w_pert": [
+            "日元",
+            "状元",
+            "多元",
+            "职员"
+        ],
+        "py2_pert": [
+            "rì yuán",
+            "zhuàng yuán",
+            "duō yuán",
+            "zhí yuán"
+        ],
+        "answer": "D"
+    },
+    "25115": {
+        "w": "立志",
+        "cnt": 252,
+        "py1": "li4 zhi4",
+        "py2": "lì zhì",
+        "w_pert": [
+            "立时",
+            "利用",
+            "力争",
+            "荔枝"
+        ],
+        "py2_pert": [
+            "lì shí",
+            "lì yòng",
+            "lì zhēng",
+            "lì zhī"
+        ],
+        "answer": "D"
+    },
+    "36887": {
+        "w": "事件",
+        "cnt": 4233,
+        "py1": "shi4 jian4",
+        "py2": "shì jiàn",
+        "w_pert": [
+            "视角",
+            "试点",
+            "适应",
+            "世间"
+        ],
+        "py2_pert": [
+            "shì jiǎo",
+            "shì diǎn",
+            "shì yìng",
+            "shì jiān"
+        ],
+        "answer": "D"
+    },
+    "18313": {
+        "w": "会合",
+        "cnt": 179,
+        "py1": "hui4 he2",
+        "py2": "huì hé",
+        "w_pert": [
+            "维和",
+            "任何",
+            "回合",
+            "黄河"
+        ],
+        "py2_pert": [
+            "wéi hé",
+            "rèn hé",
+            "huí hé",
+            "huáng hé"
+        ],
+        "answer": "C"
+    },
+    "18332": {
+        "w": "会通",
+        "cnt": 666,
+        "py1": "hui4 tong1",
+        "py2": "huì tōng",
+        "w_pert": [
+            "汇总",
+            "会堂",
+            "会期",
+            "会同"
+        ],
+        "py2_pert": [
+            "huì zǒng",
+            "huì táng",
+            "huì qī",
+            "huì tóng"
+        ],
+        "answer": "D"
+    },
+    "33107": {
+        "w": "球市",
+        "cnt": 300,
+        "py1": "qiu2 shi4",
+        "py2": "qiú shì",
+        "w_pert": [
+            "求职",
+            "求生",
+            "求实",
+            "球队"
+        ],
+        "py2_pert": [
+            "qiú zhí",
+            "qiú shēng",
+            "qiú shí",
+            "qiú duì"
+        ],
+        "answer": "C"
+    },
+    "5680": {
+        "w": "出警",
+        "cnt": 181,
+        "py1": "chu1 jing3",
+        "py2": "chū jǐng",
+        "w_pert": [
+            "出镜",
+            "出场",
+            "出名",
+            "初见"
+        ],
+        "py2_pert": [
+            "chū jìng",
+            "chū chǎng",
+            "chū míng",
+            "chū jiàn"
+        ],
+        "answer": "A"
+    },
+    "17903": {
+        "w": "换位",
+        "cnt": 147,
+        "py1": "huan4 wei4",
+        "py2": "huàn wèi",
+        "w_pert": [
+            "单位",
+            "回味",
+            "环卫",
+            "意味"
+        ],
+        "py2_pert": [
+            "dān wèi",
+            "huí wèi",
+            "huán wèi",
+            "yì wèi"
+        ],
+        "answer": "C"
+    },
+    "55187": {
+        "w": "自卑",
+        "cnt": 272,
+        "py1": "zi4 bei1",
+        "py2": "zì bēi",
+        "w_pert": [
+            "自家",
+            "自费",
+            "自拔",
+            "自备"
+        ],
+        "py2_pert": [
+            "zì jiā",
+            "zì fèi",
+            "zì bá",
+            "zì bèi"
+        ],
+        "answer": "D"
+    },
+    "4347": {
+        "w": "尝鲜",
+        "cnt": 128,
+        "py1": "chang2 xian1",
+        "py2": "cháng xiān",
+        "w_pert": [
+            "长线",
+            "长效",
+            "长期",
+            "常见"
+        ],
+        "py2_pert": [
+            "cháng xiàn",
+            "cháng xiào",
+            "cháng qī",
+            "cháng jiàn"
+        ],
+        "answer": "A"
+    },
+    "38594": {
+        "w": "肆意",
+        "cnt": 221,
+        "py1": "si4 yi4",
+        "py2": "sì yì",
+        "w_pert": [
+            "随意",
+            "思议",
+            "创意",
+            "实意"
+        ],
+        "py2_pert": [
+            "suí yì",
+            "sī yì",
+            "chuàng yì",
+            "shí yì"
+        ],
+        "answer": "B"
+    },
+    "32720": {
+        "w": "倾注",
+        "cnt": 124,
+        "py1": "qing1 zhu4",
+        "py2": "qīng zhù",
+        "w_pert": [
+            "进驻",
+            "庆祝",
+            "关注",
+            "求助"
+        ],
+        "py2_pert": [
+            "jìn zhù",
+            "qìng zhù",
+            "guān zhù",
+            "qiú zhù"
+        ],
+        "answer": "B"
+    },
+    "45404": {
+        "w": "心机",
+        "cnt": 304,
+        "py1": "xin1 ji1",
+        "py2": "xīn jī",
+        "w_pert": [
+            "心计",
+            "心境",
+            "新风",
+            "心里"
+        ],
+        "py2_pert": [
+            "xīn jì",
+            "xīn jìng",
+            "xīn fēng",
+            "xīn lǐ"
+        ],
+        "answer": "A"
+    },
+    "28476": {
+        "w": "茉莉",
+        "cnt": 113,
+        "py1": "mo4 li4",
+        "py2": "mò lì",
+        "w_pert": [
+            "活力",
+            "魔力",
+            "毛利",
+            "案例"
+        ],
+        "py2_pert": [
+            "huó lì",
+            "mó lì",
+            "máo lì",
+            "àn lì"
+        ],
+        "answer": "B"
+    },
+    "32745": {
+        "w": "清淡",
+        "cnt": 408,
+        "py1": "qing1 dan4",
+        "py2": "qīng dàn",
+        "w_pert": [
+            "倾倒",
+            "清单",
+            "青睐",
+            "青山"
+        ],
+        "py2_pert": [
+            "qīng dǎo",
+            "qīng dān",
+            "qīng lài",
+            "qīng shān"
+        ],
+        "answer": "B"
+    },
+    "19228": {
+        "w": "集市",
+        "cnt": 154,
+        "py1": "ji2 shi4",
+        "py2": "jí shì",
+        "w_pert": [
+            "即使",
+            "疾病",
+            "集资",
+            "棘手"
+        ],
+        "py2_pert": [
+            "jí shǐ",
+            "jí bìng",
+            "jí zī",
+            "jí shǒu"
+        ],
+        "answer": "A"
+    },
+    "53162": {
+        "w": "织品",
+        "cnt": 142,
+        "py1": "zhi1 pin3",
+        "py2": "zhī pǐn",
+        "w_pert": [
+            "出品",
+            "饰品",
+            "正品",
+            "制品"
+        ],
+        "py2_pert": [
+            "chū pǐn",
+            "shì pǐn",
+            "zhèng pǐn",
+            "zhì pǐn"
+        ],
+        "answer": "D"
+    },
+    "53463": {
+        "w": "至上",
+        "cnt": 531,
+        "py1": "zhi4 shang4",
+        "py2": "zhì shàng",
+        "w_pert": [
+            "至当",
+            "制度",
+            "智商",
+            "至少"
+        ],
+        "py2_pert": [
+            "zhì dāng",
+            "zhì dù",
+            "zhì shāng",
+            "zhì shǎo"
+        ],
+        "answer": "C"
+    },
+    "45090": {
+        "w": "校方",
+        "cnt": 175,
+        "py1": "xiao4 fang1",
+        "py2": "xiào fāng",
+        "w_pert": [
+            "校长",
+            "校服",
+            "笑声",
+            "效仿"
+        ],
+        "py2_pert": [
+            "xiào zhǎng",
+            "xiào fú",
+            "xiào shēng",
+            "xiào fǎng"
+        ],
+        "answer": "D"
+    },
+    "44349": {
+        "w": "相恋",
+        "cnt": 217,
+        "py1": "xiang1 lian4",
+        "py2": "xiāng liàn",
+        "w_pert": [
+            "相对",
+            "香甜",
+            "相连",
+            "相邻"
+        ],
+        "py2_pert": [
+            "xiāng duì",
+            "xiāng tián",
+            "xiāng lián",
+            "xiāng lín"
+        ],
+        "answer": "C"
+    },
+    "37628": {
+        "w": "输液",
+        "cnt": 103,
+        "py1": "shu1 ye4",
+        "py2": "shū yè",
+        "w_pert": [
+            "物业",
+            "树叶",
+            "实业",
+            "开业"
+        ],
+        "py2_pert": [
+            "wù yè",
+            "shù yè",
+            "shí yè",
+            "kāi yè"
+        ],
+        "answer": "B"
+    },
+    "36639": {
+        "w": "实例",
+        "cnt": 163,
+        "py1": "shi2 li4",
+        "py2": "shí lì",
+        "w_pert": [
+            "潜力",
+            "胜利",
+            "资力",
+            "事例"
+        ],
+        "py2_pert": [
+            "qián lì",
+            "shèng lì",
+            "zī lì",
+            "shì lì"
+        ],
+        "answer": "D"
+    },
+    "33206": {
+        "w": "趋向",
+        "cnt": 246,
+        "py1": "qu1 xiang4",
+        "py2": "qū xiàng",
+        "w_pert": [
+            "迹象",
+            "方向",
+            "去向",
+            "强项"
+        ],
+        "py2_pert": [
+            "jì xiàng",
+            "fāng xiàng",
+            "qù xiàng",
+            "qiáng xiàng"
+        ],
+        "answer": "C"
+    },
+    "44355": {
+        "w": "相通",
+        "cnt": 210,
+        "py1": "xiang1 tong1",
+        "py2": "xiāng tōng",
+        "w_pert": [
+            "相逢",
+            "相同",
+            "相当",
+            "箱体"
+        ],
+        "py2_pert": [
+            "xiāng féng",
+            "xiāng tóng",
+            "xiāng dāng",
+            "xiāng tǐ"
+        ],
+        "answer": "B"
+    },
+    "20998": {
+        "w": "节目",
+        "cnt": 2251,
+        "py1": "jie2 mu4",
+        "py2": "jié mù",
+        "w_pert": [
+            "揭幕",
+            "悦目",
+            "屏幕",
+            "剧目"
+        ],
+        "py2_pert": [
+            "jiē mù",
+            "yuè mù",
+            "píng mù",
+            "jù mù"
+        ],
+        "answer": "A"
+    },
+    "45409": {
+        "w": "心急",
+        "cnt": 171,
+        "py1": "xin1 ji2",
+        "py2": "xīn jí",
+        "w_pert": [
+            "心悸",
+            "新近",
+            "新低",
+            "心疼"
+        ],
+        "py2_pert": [
+            "xīn jì",
+            "xīn jìn",
+            "xīn dī",
+            "xīn téng"
+        ],
+        "answer": "A"
+    },
+    "28175": {
+        "w": "名胜",
+        "cnt": 221,
+        "py1": "ming2 sheng4",
+        "py2": "míng shèng",
+        "w_pert": [
+            "名声",
+            "名师",
+            "明确",
+            "名称"
+        ],
+        "py2_pert": [
+            "míng shēng",
+            "míng shī",
+            "míng què",
+            "míng chēng"
+        ],
+        "answer": "A"
+    },
+    "33287": {
+        "w": "趣味",
+        "cnt": 1587,
+        "py1": "qu4 wei4",
+        "py2": "qù wèi",
+        "w_pert": [
+            "前卫",
+            "区位",
+            "定位",
+            "脾胃"
+        ],
+        "py2_pert": [
+            "qián wèi",
+            "qū wèi",
+            "dìng wèi",
+            "pí wèi"
+        ],
+        "answer": "B"
+    },
+    "11943": {
+        "w": "分值",
+        "cnt": 185,
+        "py1": "fen1 zhi2",
+        "py2": "fēn zhí",
+        "w_pert": [
+            "分钟",
+            "分成",
+            "分子",
+            "分支"
+        ],
+        "py2_pert": [
+            "fēn zhōng",
+            "fēn chéng",
+            "fēn zǐ",
+            "fēn zhī"
+        ],
+        "answer": "D"
+    },
+    "17112": {
+        "w": "后退",
+        "cnt": 197,
+        "py1": "hou4 tui4",
+        "py2": "hòu tuì",
+        "w_pert": [
+            "后台",
+            "后面",
+            "后悔",
+            "后腿"
+        ],
+        "py2_pert": [
+            "hòu tái",
+            "hòu miàn",
+            "hòu huǐ",
+            "hòu tuǐ"
+        ],
+        "answer": "D"
+    },
+    "31269": {
+        "w": "栖息",
+        "cnt": 164,
+        "py1": "qi1 xi1",
+        "py2": "qī xī",
+        "w_pert": [
+            "消息",
+            "前夕",
+            "气息",
+            "利息"
+        ],
+        "py2_pert": [
+            "xiāo xī",
+            "qián xī",
+            "qì xī",
+            "lì xī"
+        ],
+        "answer": "C"
+    },
+    "39272": {
+        "w": "谈心",
+        "cnt": 113,
+        "py1": "tan2 xin1",
+        "py2": "tán xīn",
+        "w_pert": [
+            "关心",
+            "贴心",
+            "重新",
+            "贪心"
+        ],
+        "py2_pert": [
+            "guān xīn",
+            "tiē xīn",
+            "chóng xīn",
+            "tān xīn"
+        ],
+        "answer": "D"
+    },
+    "21599": {
+        "w": "禁忌",
+        "cnt": 302,
+        "py1": "jin4 ji4",
+        "py2": "jìn jì",
+        "w_pert": [
+            "晋级",
+            "进军",
+            "进入",
+            "近期"
+        ],
+        "py2_pert": [
+            "jìn jí",
+            "jìn jūn",
+            "jìn rù",
+            "jìn qī"
+        ],
+        "answer": "A"
+    },
+    "7610": {
+        "w": "大展",
+        "cnt": 207,
+        "py1": "da4 zhan3",
+        "py2": "dà zhǎn",
+        "w_pert": [
+            "大众",
+            "大关",
+            "大战",
+            "大雨"
+        ],
+        "py2_pert": [
+            "dà zhòng",
+            "dà guān",
+            "dà zhàn",
+            "dà yǔ"
+        ],
+        "answer": "C"
+    },
+    "21538": {
+        "w": "进发",
+        "cnt": 149,
+        "py1": "jin4 fa1",
+        "py2": "jìn fā",
+        "w_pert": [
+            "激发",
+            "频发",
+            "下发",
+            "金发"
+        ],
+        "py2_pert": [
+            "jī fā",
+            "pín fā",
+            "xià fā",
+            "jīn fā"
+        ],
+        "answer": "D"
+    },
+    "35713": {
+        "w": "身受",
+        "cnt": 173,
+        "py1": "shen1 shou4",
+        "py2": "shēn shòu",
+        "w_pert": [
+            "身上",
+            "深入",
+            "深秋",
+            "伸手"
+        ],
+        "py2_pert": [
+            "shēn shang",
+            "shēn rù",
+            "shēn qiū",
+            "shēn shǒu"
+        ],
+        "answer": "D"
+    },
+    "40448": {
+        "w": "通常",
+        "cnt": 3130,
+        "py1": "tong1 chang2",
+        "py2": "tōng cháng",
+        "w_pert": [
+            "通胀",
+            "通俗",
+            "通畅",
+            "通车"
+        ],
+        "py2_pert": [
+            "tōng zhàng",
+            "tōng sú",
+            "tōng chàng",
+            "tōng chē"
+        ],
+        "answer": "C"
+    },
+    "18812": {
+        "w": "机长",
+        "cnt": 103,
+        "py1": "ji1 chang2",
+        "py2": "jī cháng",
+        "w_pert": [
+            "激光",
+            "基层",
+            "基础",
+            "机场"
+        ],
+        "py2_pert": [
+            "jī guāng",
+            "jī céng",
+            "jī chǔ",
+            "jī chǎng"
+        ],
+        "answer": "D"
+    },
+    "21607": {
+        "w": "禁区",
+        "cnt": 274,
+        "py1": "jin4 qu1",
+        "py2": "jìn qū",
+        "w_pert": [
+            "尽力",
+            "尽情",
+            "进出",
+            "进取"
+        ],
+        "py2_pert": [
+            "jìn lì",
+            "jìn qíng",
+            "jìn chū",
+            "jìn qǔ"
+        ],
+        "answer": "D"
+    },
+    "31346": {
+        "w": "其间",
+        "cnt": 442,
+        "py1": "qi2 jian1",
+        "py2": "qí jiān",
+        "w_pert": [
+            "旗舰",
+            "奇迹",
+            "齐全",
+            "其中"
+        ],
+        "py2_pert": [
+            "qí jiàn",
+            "qí jì",
+            "qí quán",
+            "qí zhōng"
+        ],
+        "answer": "A"
+    },
+    "53992": {
+        "w": "重力",
+        "cnt": 167,
+        "py1": "zhong4 li4",
+        "py2": "zhòng lì",
+        "w_pert": [
+            "魅力",
+            "中立",
+            "着力",
+            "红利"
+        ],
+        "py2_pert": [
+            "mèi lì",
+            "zhōng lì",
+            "zhuó lì",
+            "hóng lì"
+        ],
+        "answer": "B"
+    },
+    "36017": {
+        "w": "生姜",
+        "cnt": 271,
+        "py1": "sheng1 jiang1",
+        "py2": "shēng jiāng",
+        "w_pert": [
+            "升降",
+            "生发",
+            "生长",
+            "生计"
+        ],
+        "py2_pert": [
+            "shēng jiàng",
+            "shēng fā",
+            "shēng zhǎng",
+            "shēng jì"
+        ],
+        "answer": "A"
+    },
+    "19253": {
+        "w": "嫉妒",
+        "cnt": 273,
+        "py1": "ji2 du4",
+        "py2": "jí dù",
+        "w_pert": [
+            "季度",
+            "力度",
+            "进度",
+            "幅度"
+        ],
+        "py2_pert": [
+            "jì dù",
+            "lì dù",
+            "jìn dù",
+            "fú dù"
+        ],
+        "answer": "A"
+    },
+    "28218": {
+        "w": "明明",
+        "cnt": 789,
+        "py1": "ming2 ming2",
+        "py2": "míng míng",
+        "w_pert": [
+            "命名",
+            "排名",
+            "慕名",
+            "姓名"
+        ],
+        "py2_pert": [
+            "mìng míng",
+            "pái míng",
+            "mù míng",
+            "xìng míng"
+        ],
+        "answer": "A"
+    },
+    "52916": {
+        "w": "正气",
+        "cnt": 163,
+        "py1": "zheng4 qi4",
+        "py2": "zhèng qì",
+        "w_pert": [
+            "朝气",
+            "电器",
+            "人气",
+            "蒸汽"
+        ],
+        "py2_pert": [
+            "zhāo qì",
+            "diàn qì",
+            "rén qì",
+            "zhēng qì"
+        ],
+        "answer": "D"
+    },
+    "21017": {
+        "w": "节制",
+        "cnt": 175,
+        "py1": "jie2 zhi4",
+        "py2": "jié zhì",
+        "w_pert": [
+            "介质",
+            "材质",
+            "劣质",
+            "精致"
+        ],
+        "py2_pert": [
+            "jiè zhì",
+            "cái zhì",
+            "liè zhì",
+            "jīng zhì"
+        ],
+        "answer": "A"
+    },
+    "52575": {
+        "w": "真谛",
+        "cnt": 136,
+        "py1": "zhen1 di4",
+        "py2": "zhēn dì",
+        "w_pert": [
+            "阵地",
+            "圣地",
+            "标的",
+            "质地"
+        ],
+        "py2_pert": [
+            "zhèn dì",
+            "shèng dì",
+            "biāo dì",
+            "zhì dì"
+        ],
+        "answer": "A"
+    },
+    "14143": {
+        "w": "公正",
+        "cnt": 755,
+        "py1": "gong1 zheng4",
+        "py2": "gōng zhèng",
+        "w_pert": [
+            "工整",
+            "公主",
+            "工程",
+            "工艺"
+        ],
+        "py2_pert": [
+            "gōng zhěng",
+            "gōng zhǔ",
+            "gōng chéng",
+            "gōng yì"
+        ],
+        "answer": "A"
+    },
+    "48978": {
+        "w": "意想",
+        "cnt": 424,
+        "py1": "yi4 xiang3",
+        "py2": "yì xiǎng",
+        "w_pert": [
+            "异彩",
+            "异性",
+            "异样",
+            "意向"
+        ],
+        "py2_pert": [
+            "yì cǎi",
+            "yì xìng",
+            "yì yàng",
+            "yì xiàng"
+        ],
+        "answer": "D"
+    },
+    "35241": {
+        "w": "上口",
+        "cnt": 105,
+        "py1": "shang4 kou3",
+        "py2": "shàng kǒu",
+        "w_pert": [
+            "山口",
+            "进口",
+            "伤口",
+            "窗口"
+        ],
+        "py2_pert": [
+            "shān kǒu",
+            "jìn kǒu",
+            "shāng kǒu",
+            "chuāng kǒu"
+        ],
+        "answer": "C"
+    },
+    "11909": {
+        "w": "分歧",
+        "cnt": 531,
+        "py1": "fen1 qi2",
+        "py2": "fēn qí",
+        "w_pert": [
+            "分期",
+            "分明",
+            "分清",
+            "分批"
+        ],
+        "py2_pert": [
+            "fēn qī",
+            "fēn míng",
+            "fēn qīng",
+            "fēn pī"
+        ],
+        "answer": "A"
+    },
+    "32674": {
+        "w": "轻型",
+        "cnt": 160,
+        "py1": "qing1 xing2",
+        "py2": "qīng xíng",
+        "w_pert": [
+            "清洗",
+            "倾听",
+            "清醒",
+            "青年"
+        ],
+        "py2_pert": [
+            "qīng xǐ",
+            "qīng tīng",
+            "qīng xǐng",
+            "qīng nián"
+        ],
+        "answer": "C"
+    },
+    "54556": {
+        "w": "专长",
+        "cnt": 133,
+        "py1": "zhuan1 chang2",
+        "py2": "zhuān cháng",
+        "w_pert": [
+            "专项",
+            "专场",
+            "专车",
+            "专门"
+        ],
+        "py2_pert": [
+            "zhuān xiàng",
+            "zhuān chǎng",
+            "zhuān chē",
+            "zhuān mén"
+        ],
+        "answer": "B"
+    },
+    "2297": {
+        "w": "辩解",
+        "cnt": 113,
+        "py1": "bian4 jie3",
+        "py2": "biàn jiě",
+        "w_pert": [
+            "辨别",
+            "遍及",
+            "变色",
+            "便捷"
+        ],
+        "py2_pert": [
+            "biàn bié",
+            "biàn jí",
+            "biàn shǎi",
+            "biàn jié"
+        ],
+        "answer": "D"
+    },
+    "7414": {
+        "w": "大麻",
+        "cnt": 108,
+        "py1": "da4 ma2",
+        "py2": "dà má",
+        "w_pert": [
+            "大米",
+            "大妈",
+            "大牌",
+            "大厦"
+        ],
+        "py2_pert": [
+            "dà mǐ",
+            "dà mā",
+            "dà pái",
+            "dà shà"
+        ],
+        "answer": "B"
+    },
+    "2546": {
+        "w": "兵力",
+        "cnt": 116,
+        "py1": "bing1 li4",
+        "py2": "bīng lì",
+        "w_pert": [
+            "颗粒",
+            "便利",
+            "名利",
+            "并立"
+        ],
+        "py2_pert": [
+            "kē lì",
+            "biàn lì",
+            "míng lì",
+            "bìng lì"
+        ],
+        "answer": "D"
+    },
+    "2234": {
+        "w": "变成",
+        "cnt": 4647,
+        "py1": "bian4 cheng2",
+        "py2": "biàn chéng",
+        "w_pert": [
+            "造成",
+            "八成",
+            "编程",
+            "严惩"
+        ],
+        "py2_pert": [
+            "zào chéng",
+            "bā chéng",
+            "biān chéng",
+            "yán chéng"
+        ],
+        "answer": "C"
+    },
+    "39626": {
+        "w": "特级",
+        "cnt": 154,
+        "py1": "te4 ji2",
+        "py2": "tè jí",
+        "w_pert": [
+            "特价",
+            "特技",
+            "特别",
+            "特意"
+        ],
+        "py2_pert": [
+            "tè jià",
+            "tè jì",
+            "tè bié",
+            "tè yì"
+        ],
+        "answer": "B"
+    },
+    "35328": {
+        "w": "上乘",
+        "cnt": 175,
+        "py1": "shang4 cheng2",
+        "py2": "shàng chéng",
+        "w_pert": [
+            "构成",
+            "山城",
+            "商城",
+            "长城"
+        ],
+        "py2_pert": [
+            "gòu chéng",
+            "shān chéng",
+            "shāng chéng",
+            "cháng chéng"
+        ],
+        "answer": "C"
+    },
+    "28910": {
+        "w": "南国",
+        "cnt": 214,
+        "py1": "nan2 guo2",
+        "py2": "nán guó",
+        "w_pert": [
+            "难说",
+            "难过",
+            "难怪",
+            "难题"
+        ],
+        "py2_pert": [
+            "nán shuō",
+            "nán guò",
+            "nán guài",
+            "nán tí"
+        ],
+        "answer": "B"
+    },
+    "36668": {
+        "w": "实用",
+        "cnt": 2155,
+        "py1": "shi2 yong4",
+        "py2": "shí yòng",
+        "w_pert": [
+            "服用",
+            "试用",
+            "受用",
+            "自用"
+        ],
+        "py2_pert": [
+            "fú yòng",
+            "shì yòng",
+            "shòu yòng",
+            "zì yòng"
+        ],
+        "answer": "B"
+    },
+    "18984": {
+        "w": "基数",
+        "cnt": 383,
+        "py1": "ji1 shu4",
+        "py2": "jī shù",
+        "w_pert": [
+            "分数",
+            "结束",
+            "叙述",
+            "计数"
+        ],
+        "py2_pert": [
+            "fēn shù",
+            "jié shù",
+            "xù shù",
+            "jì shù"
+        ],
+        "answer": "D"
+    },
+    "5039": {
+        "w": "城堡",
+        "cnt": 220,
+        "py1": "cheng2 bao3",
+        "py2": "chéng bǎo",
+        "w_pert": [
+            "成交",
+            "承包",
+            "承办",
+            "成品"
+        ],
+        "py2_pert": [
+            "chéng jiāo",
+            "chéng bāo",
+            "chéng bàn",
+            "chéng pǐn"
+        ],
+        "answer": "B"
+    },
+    "32718": {
+        "w": "倾心",
+        "cnt": 115,
+        "py1": "qing1 xin1",
+        "py2": "qīng xīn",
+        "w_pert": [
+            "倾斜",
+            "轻信",
+            "清明",
+            "轻松"
+        ],
+        "py2_pert": [
+            "qīng xié",
+            "qīng xìn",
+            "qīng míng",
+            "qīng sōng"
+        ],
+        "answer": "B"
+    },
+    "45499": {
+        "w": "新知",
+        "cnt": 125,
+        "py1": "xin1 zhi1",
+        "py2": "xīn zhī",
+        "w_pert": [
+            "心思",
+            "心声",
+            "新政",
+            "心智"
+        ],
+        "py2_pert": [
+            "xīn si",
+            "xīn shēng",
+            "xīn zhèng",
+            "xīn zhì"
+        ],
+        "answer": "D"
+    },
+    "6643": {
+        "w": "从中",
+        "cnt": 1696,
+        "py1": "cong2 zhong1",
+        "py2": "cóng zhōng",
+        "w_pert": [
+            "从商",
+            "从重",
+            "从容",
+            "从政"
+        ],
+        "py2_pert": [
+            "cóng shāng",
+            "cóng zhòng",
+            "cóng róng",
+            "cóng zhèng"
+        ],
+        "answer": "B"
+    },
+    "35710": {
+        "w": "身手",
+        "cnt": 179,
+        "py1": "shen1 shou3",
+        "py2": "shēn shǒu",
+        "w_pert": [
+            "深厚",
+            "申请",
+            "深受",
+            "绅士"
+        ],
+        "py2_pert": [
+            "shēn hòu",
+            "shēn qǐng",
+            "shēn shòu",
+            "shēn shì"
+        ],
+        "answer": "C"
+    },
+    "53290": {
+        "w": "职称",
+        "cnt": 264,
+        "py1": "zhi2 cheng1",
+        "py2": "zhí chēng",
+        "w_pert": [
+            "自称",
+            "著称",
+            "人称",
+            "支撑"
+        ],
+        "py2_pert": [
+            "zì chēng",
+            "zhù chēng",
+            "rén chēng",
+            "zhī chēng"
+        ],
+        "answer": "D"
+    },
+    "53959": {
+        "w": "重用",
+        "cnt": 130,
+        "py1": "zhong4 yong4",
+        "py2": "zhòng yòng",
+        "w_pert": [
+            "通用",
+            "作用",
+            "专用",
+            "中用"
+        ],
+        "py2_pert": [
+            "tōng yòng",
+            "zuò yòng",
+            "zhuān yòng",
+            "zhōng yòng"
+        ],
+        "answer": "D"
+    },
+    "5031": {
+        "w": "诚心",
+        "cnt": 112,
+        "py1": "cheng2 xin1",
+        "py2": "chéng xīn",
+        "w_pert": [
+            "呈现",
+            "成功",
+            "诚信",
+            "成名"
+        ],
+        "py2_pert": [
+            "chéng xiàn",
+            "chéng gōng",
+            "chéng xìn",
+            "chéng míng"
+        ],
+        "answer": "C"
+    },
+    "7745": {
+        "w": "殆尽",
+        "cnt": 161,
+        "py1": "dai4 jin4",
+        "py2": "dài jìn",
+        "w_pert": [
+            "代金",
+            "待机",
+            "待遇",
+            "带领"
+        ],
+        "py2_pert": [
+            "dài jīn",
+            "dài jī",
+            "dài yù",
+            "dài lǐng"
+        ],
+        "answer": "A"
+    },
+    "18336": {
+        "w": "会心",
+        "cnt": 263,
+        "py1": "hui4 xin1",
+        "py2": "huì xīn",
+        "w_pert": [
+            "灰心",
+            "信心",
+            "随心",
+            "花心"
+        ],
+        "py2_pert": [
+            "huī xīn",
+            "xìn xīn",
+            "suí xīn",
+            "huā xīn"
+        ],
+        "answer": "A"
+    },
+    "35755": {
+        "w": "深交",
+        "cnt": 273,
+        "py1": "shen1 jiao1",
+        "py2": "shēn jiāo",
+        "w_pert": [
+            "身边",
+            "身价",
+            "申报",
+            "身教"
+        ],
+        "py2_pert": [
+            "shēn biān",
+            "shēn jià",
+            "shēn bào",
+            "shēn jiào"
+        ],
+        "answer": "D"
+    },
+    "22265": {
+        "w": "就职",
+        "cnt": 178,
+        "py1": "jiu4 zhi2",
+        "py2": "jiù zhí",
+        "w_pert": [
+            "救助",
+            "救治",
+            "就此",
+            "救援"
+        ],
+        "py2_pert": [
+            "jiù zhù",
+            "jiù zhì",
+            "jiù cǐ",
+            "jiù yuán"
+        ],
+        "answer": "B"
+    },
+    "4826": {
+        "w": "趁机",
+        "cnt": 230,
+        "py1": "chen4 ji1",
+        "py2": "chèn jī",
+        "w_pert": [
+            "冲击",
+            "根基",
+            "刺激",
+            "沉积"
+        ],
+        "py2_pert": [
+            "chōng jī",
+            "gēn jī",
+            "cì jī",
+            "chén jī"
+        ],
+        "answer": "D"
+    },
+    "43403": {
+        "w": "稀奇",
+        "cnt": 148,
+        "py1": "xi1 qi2",
+        "py2": "xī qí",
+        "w_pert": [
+            "稀缺",
+            "西藏",
+            "吸气",
+            "犀利"
+        ],
+        "py2_pert": [
+            "xī quē",
+            "xī cáng",
+            "xī qì",
+            "xī lì"
+        ],
+        "answer": "C"
+    },
+    "35287": {
+        "w": "上交",
+        "cnt": 559,
+        "py1": "shang4 jiao1",
+        "py2": "shàng jiāo",
+        "w_pert": [
+            "上报",
+            "上级",
+            "上缴",
+            "上周"
+        ],
+        "py2_pert": [
+            "shàng bào",
+            "shàng jí",
+            "shàng jiǎo",
+            "shàng zhōu"
+        ],
+        "answer": "C"
+    },
+    "52949": {
+        "w": "正直",
+        "cnt": 160,
+        "py1": "zheng4 zhi2",
+        "py2": "zhèng zhí",
+        "w_pert": [
+            "争执",
+            "价值",
+            "升值",
+            "专职"
+        ],
+        "py2_pert": [
+            "zhēng zhí",
+            "jià zhí",
+            "shēng zhí",
+            "zhuān zhí"
+        ],
+        "answer": "A"
+    },
+    "12658": {
+        "w": "付息",
+        "cnt": 105,
+        "py1": "fu4 xi1",
+        "py2": "fù xī",
+        "w_pert": [
+            "负担",
+            "复习",
+            "赋予",
+            "腹泻"
+        ],
+        "py2_pert": [
+            "fù dān",
+            "fù xí",
+            "fù yǔ",
+            "fù xiè"
+        ],
+        "answer": "B"
+    },
+    "35756": {
+        "w": "深情",
+        "cnt": 403,
+        "py1": "shen1 qing2",
+        "py2": "shēn qíng",
+        "w_pert": [
+            "神情",
+            "风情",
+            "实情",
+            "人情"
+        ],
+        "py2_pert": [
+            "shén qíng",
+            "fēng qíng",
+            "shí qíng",
+            "rén qíng"
+        ],
+        "answer": "A"
+    },
+    "25355": {
+        "w": "联席",
+        "cnt": 199,
+        "py1": "lian2 xi2",
+        "py2": "lián xí",
+        "w_pert": [
+            "联盟",
+            "联谊",
+            "联想",
+            "联系"
+        ],
+        "py2_pert": [
+            "lián méng",
+            "lián yì",
+            "lián xiǎng",
+            "lián xì"
+        ],
+        "answer": "D"
+    },
+    "21493": {
+        "w": "近来",
+        "cnt": 476,
+        "py1": "jin4 lai2",
+        "py2": "jìn lái",
+        "w_pert": [
+            "近年",
+            "禁令",
+            "近代",
+            "进来"
+        ],
+        "py2_pert": [
+            "jìn nián",
+            "jìn lìng",
+            "jìn dài",
+            "jìn lai"
+        ],
+        "answer": "D"
+    },
+    "21960": {
+        "w": "竞技",
+        "cnt": 684,
+        "py1": "jing4 ji4",
+        "py2": "jìng jì",
+        "w_pert": [
+            "交际",
+            "铭记",
+            "设计",
+            "经纪"
+        ],
+        "py2_pert": [
+            "jiāo jì",
+            "míng jì",
+            "shè jì",
+            "jīng jì"
+        ],
+        "answer": "D"
+    },
+    "18970": {
+        "w": "基点",
+        "cnt": 220,
+        "py1": "ji1 dian3",
+        "py2": "jī diǎn",
+        "w_pert": [
+            "基本",
+            "机电",
+            "基建",
+            "激动"
+        ],
+        "py2_pert": [
+            "jī běn",
+            "jī diàn",
+            "jī jiàn",
+            "jī dòng"
+        ],
+        "answer": "B"
+    },
+    "10986": {
+        "w": "发式",
+        "cnt": 205,
+        "py1": "fa4 shi4",
+        "py2": "fà shì",
+        "w_pert": [
+            "擦拭",
+            "发誓",
+            "正是",
+            "凡是"
+        ],
+        "py2_pert": [
+            "cā shì",
+            "fā shì",
+            "zhèng shì",
+            "fán shì"
+        ],
+        "answer": "B"
+    },
+    "1593": {
+        "w": "背部",
+        "cnt": 436,
+        "py1": "bei4 bu4",
+        "py2": "bèi bù",
+        "w_pert": [
+            "背后",
+            "背书",
+            "被捕",
+            "背包"
+        ],
+        "py2_pert": [
+            "bèi hòu",
+            "bèi shū",
+            "bèi bǔ",
+            "bèi bāo"
+        ],
+        "answer": "C"
+    },
+    "35724": {
+        "w": "身姿",
+        "cnt": 161,
+        "py1": "shen1 zi1",
+        "py2": "shēn zī",
+        "w_pert": [
+            "身心",
+            "身子",
+            "深造",
+            "身世"
+        ],
+        "py2_pert": [
+            "shēn xīn",
+            "shēn zi",
+            "shēn zào",
+            "shēn shì"
+        ],
+        "answer": "B"
+    },
+    "36142": {
+        "w": "声势",
+        "cnt": 142,
+        "py1": "sheng1 shi4",
+        "py2": "shēng shì",
+        "w_pert": [
+            "人事",
+            "盛事",
+            "装饰",
+            "硕士"
+        ],
+        "py2_pert": [
+            "rén shì",
+            "shèng shì",
+            "zhuāng shì",
+            "shuò shì"
+        ],
+        "answer": "B"
+    },
+    "14284": {
+        "w": "供职",
+        "cnt": 100,
+        "py1": "gong4 zhi2",
+        "py2": "gòng zhí",
+        "w_pert": [
+            "峰值",
+            "公职",
+            "任职",
+            "高职"
+        ],
+        "py2_pert": [
+            "fēng zhí",
+            "gōng zhí",
+            "rèn zhí",
+            "gāo zhí"
+        ],
+        "answer": "B"
+    },
+    "53028": {
+        "w": "之后",
+        "cnt": 13155,
+        "py1": "zhi1 hou4",
+        "py2": "zhī hòu",
+        "w_pert": [
+            "滞后",
+            "战后",
+            "事后",
+            "先后"
+        ],
+        "py2_pert": [
+            "zhì hòu",
+            "zhàn hòu",
+            "shì hòu",
+            "xiān hòu"
+        ],
+        "answer": "A"
+    },
+    "39973": {
+        "w": "天时",
+        "cnt": 724,
+        "py1": "tian1 shi2",
+        "py2": "tiān shí",
+        "w_pert": [
+            "天子",
+            "天使",
+            "天然",
+            "天上"
+        ],
+        "py2_pert": [
+            "tiān zǐ",
+            "tiān shǐ",
+            "tiān rán",
+            "tiān shàng"
+        ],
+        "answer": "B"
+    },
+    "3564": {
+        "w": "参观",
+        "cnt": 1204,
+        "py1": "can1 guan1",
+        "py2": "cān guān",
+        "w_pert": [
+            "参加",
+            "餐馆",
+            "参股",
+            "参展"
+        ],
+        "py2_pert": [
+            "cān jiā",
+            "cān guǎn",
+            "cān gǔ",
+            "cān zhǎn"
+        ],
+        "answer": "B"
+    },
+    "19101": {
+        "w": "即时",
+        "cnt": 604,
+        "py1": "ji2 shi2",
+        "py2": "jí shí",
+        "w_pert": [
+            "意识",
+            "计时",
+            "平时",
+            "进食"
+        ],
+        "py2_pert": [
+            "yì shí",
+            "jì shí",
+            "píng shí",
+            "jìn shí"
+        ],
+        "answer": "B"
+    },
+    "36861": {
+        "w": "示人",
+        "cnt": 171,
+        "py1": "shi4 ren2",
+        "py2": "shì rén",
+        "w_pert": [
+            "诗人",
+            "私人",
+            "动人",
+            "生人"
+        ],
+        "py2_pert": [
+            "shī rén",
+            "sī rén",
+            "dòng rén",
+            "shēng rén"
+        ],
+        "answer": "A"
+    },
+    "5767": {
+        "w": "出息",
+        "cnt": 120,
+        "py1": "chu1 xi1",
+        "py2": "chū xī",
+        "w_pert": [
+            "出于",
+            "出席",
+            "出血",
+            "出租"
+        ],
+        "py2_pert": [
+            "chū yú",
+            "chū xí",
+            "chū xiě",
+            "chū zū"
+        ],
+        "answer": "B"
+    },
+    "22812": {
+        "w": "竣工",
+        "cnt": 352,
+        "py1": "jun4 gong1",
+        "py2": "jùn gōng",
+        "w_pert": [
+            "军工",
+            "民工",
+            "交公",
+            "办公"
+        ],
+        "py2_pert": [
+            "jūn gōng",
+            "mín gōng",
+            "jiāo gōng",
+            "bàn gōng"
+        ],
+        "answer": "A"
+    },
+    "33927": {
+        "w": "任性",
+        "cnt": 776,
+        "py1": "ren4 xing4",
+        "py2": "rèn xìng",
+        "w_pert": [
+            "人性",
+            "荣幸",
+            "个性",
+            "生性"
+        ],
+        "py2_pert": [
+            "rén xìng",
+            "róng xìng",
+            "gè xìng",
+            "shēng xìng"
+        ],
+        "answer": "A"
+    },
+    "11449": {
+        "w": "防治",
+        "cnt": 754,
+        "py1": "fang2 zhi4",
+        "py2": "fáng zhì",
+        "w_pert": [
+            "房子",
+            "防范",
+            "防止",
+            "房主"
+        ],
+        "py2_pert": [
+            "fáng zi",
+            "fáng fàn",
+            "fáng zhǐ",
+            "fáng zhǔ"
+        ],
+        "answer": "C"
+    },
+    "30997": {
+        "w": "屏蔽",
+        "cnt": 186,
+        "py1": "ping2 bi4",
+        "py2": "píng bì",
+        "w_pert": [
+            "评价",
+            "评比",
+            "平米",
+            "平板"
+        ],
+        "py2_pert": [
+            "píng jià",
+            "píng bǐ",
+            "píng mǐ",
+            "píng bǎn"
+        ],
+        "answer": "B"
+    },
+    "51153": {
+        "w": "阅读",
+        "cnt": 6286,
+        "py1": "yue4 du2",
+        "py2": "yuè dú",
+        "w_pert": [
+            "月度",
+            "月初",
+            "月底",
+            "越南"
+        ],
+        "py2_pert": [
+            "yuè dù",
+            "yuè chū",
+            "yuè dǐ",
+            "yuè nán"
+        ],
+        "answer": "A"
+    },
+    "41040": {
+        "w": "途径",
+        "cnt": 1491,
+        "py1": "tu2 jing4",
+        "py2": "tú jìng",
+        "w_pert": [
+            "途经",
+            "徒刑",
+            "图片",
+            "图解"
+        ],
+        "py2_pert": [
+            "tú jīng",
+            "tú xíng",
+            "tú piàn",
+            "tú jiě"
+        ],
+        "answer": "A"
+    },
+    "36885": {
+        "w": "事迹",
+        "cnt": 319,
+        "py1": "shi4 ji4",
+        "py2": "shì jì",
+        "w_pert": [
+            "市郊",
+            "事故",
+            "事宜",
+            "试机"
+        ],
+        "py2_pert": [
+            "shì jiāo",
+            "shì gù",
+            "shì yí",
+            "shì jī"
+        ],
+        "answer": "D"
+    },
+    "51441": {
+        "w": "再度",
+        "cnt": 1654,
+        "py1": "zai4 du4",
+        "py2": "zài dù",
+        "w_pert": [
+            "再次",
+            "在党",
+            "在读",
+            "在乎"
+        ],
+        "py2_pert": [
+            "zài cì",
+            "zài dǎng",
+            "zài dú",
+            "zài hū"
+        ],
+        "answer": "C"
+    },
+    "5653": {
+        "w": "出动",
+        "cnt": 407,
+        "py1": "chu1 dong4",
+        "py2": "chū dòng",
+        "w_pert": [
+            "传动",
+            "推动",
+            "触动",
+            "浮动"
+        ],
+        "py2_pert": [
+            "chuán dòng",
+            "tuī dòng",
+            "chù dòng",
+            "fú dòng"
+        ],
+        "answer": "C"
+    },
+    "36640": {
+        "w": "实名",
+        "cnt": 335,
+        "py1": "shi2 ming2",
+        "py2": "shí míng",
+        "w_pert": [
+            "知名",
+            "失明",
+            "闻名",
+            "声名"
+        ],
+        "py2_pert": [
+            "zhī míng",
+            "shī míng",
+            "wén míng",
+            "shēng míng"
+        ],
+        "answer": "B"
+    },
+    "5048": {
+        "w": "城管",
+        "cnt": 312,
+        "py1": "cheng2 guan3",
+        "py2": "chéng guǎn",
+        "w_pert": [
+            "城关",
+            "成规",
+            "承担",
+            "城里"
+        ],
+        "py2_pert": [
+            "chéng guān",
+            "chéng guī",
+            "chéng dān",
+            "chéng lǐ"
+        ],
+        "answer": "A"
+    },
+    "35138": {
+        "w": "伤心",
+        "cnt": 454,
+        "py1": "shang1 xin1",
+        "py2": "shāng xīn",
+        "w_pert": [
+            "上心",
+            "时新",
+            "更新",
+            "良心"
+        ],
+        "py2_pert": [
+            "shàng xīn",
+            "shí xīn",
+            "gēng xīn",
+            "liáng xīn"
+        ],
+        "answer": "A"
+    },
+    "40171": {
+        "w": "条理",
+        "cnt": 148,
+        "py1": "tiao2 li3",
+        "py2": "tiáo lǐ",
+        "w_pert": [
+            "调皮",
+            "调整",
+            "调料",
+            "条例"
+        ],
+        "py2_pert": [
+            "tiáo pí",
+            "tiáo zhěng",
+            "tiáo liào",
+            "tiáo lì"
+        ],
+        "answer": "D"
+    },
+    "4088": {
+        "w": "诧异",
+        "cnt": 104,
+        "py1": "cha4 yi4",
+        "py2": "chà yì",
+        "w_pert": [
+            "诚意",
+            "贸易",
+            "差异",
+            "压抑"
+        ],
+        "py2_pert": [
+            "chéng yì",
+            "mào yì",
+            "chā yì",
+            "yā yì"
+        ],
+        "answer": "C"
+    },
+    "45340": {
+        "w": "心细",
+        "cnt": 101,
+        "py1": "xin1 xi4",
+        "py2": "xīn xì",
+        "w_pert": [
+            "欣喜",
+            "心仪",
+            "新学",
+            "心动"
+        ],
+        "py2_pert": [
+            "xīn xǐ",
+            "xīn yí",
+            "xīn xué",
+            "xīn dòng"
+        ],
+        "answer": "A"
+    },
+    "13549": {
+        "w": "高领",
+        "cnt": 163,
+        "py1": "gao1 ling3",
+        "py2": "gāo lǐng",
+        "w_pert": [
+            "高楼",
+            "高龄",
+            "高等",
+            "高兴"
+        ],
+        "py2_pert": [
+            "gāo lóu",
+            "gāo líng",
+            "gāo děng",
+            "gāo xìng"
+        ],
+        "answer": "B"
+    },
+    "20123": {
+        "w": "间接",
+        "cnt": 821,
+        "py1": "jian4 jie1",
+        "py2": "jiàn jiē",
+        "w_pert": [
+            "见解",
+            "鉴别",
+            "健康",
+            "渐渐"
+        ],
+        "py2_pert": [
+            "jiàn jiě",
+            "jiàn bié",
+            "jiàn kāng",
+            "jiàn jiàn"
+        ],
+        "answer": "A"
+    },
+    "31657": {
+        "w": "气球",
+        "cnt": 176,
+        "py1": "qi4 qiu2",
+        "py2": "qì qiú",
+        "w_pert": [
+            "需求",
+            "祈求",
+            "诉求",
+            "全球"
+        ],
+        "py2_pert": [
+            "xū qiú",
+            "qí qiú",
+            "sù qiú",
+            "quán qiú"
+        ],
+        "answer": "B"
+    },
+    "33811": {
+        "w": "人为",
+        "cnt": 2149,
+        "py1": "ren2 wei2",
+        "py2": "rén wéi",
+        "w_pert": [
+            "行为",
+            "称为",
+            "入围",
+            "认为"
+        ],
+        "py2_pert": [
+            "xíng wéi",
+            "chēng wéi",
+            "rù wéi",
+            "rèn wéi"
+        ],
+        "answer": "D"
+    },
+    "20127": {
+        "w": "间隙",
+        "cnt": 380,
+        "py1": "jian4 xi4",
+        "py2": "jiàn xì",
+        "w_pert": [
+            "见习",
+            "践行",
+            "见于",
+            "建设"
+        ],
+        "py2_pert": [
+            "jiàn xí",
+            "jiàn xíng",
+            "jiàn yú",
+            "jiàn shè"
+        ],
+        "answer": "A"
+    },
+    "35817": {
+        "w": "神话",
+        "cnt": 479,
+        "py1": "shen2 hua4",
+        "py2": "shén huà",
+        "w_pert": [
+            "分化",
+            "说话",
+            "深化",
+            "强化"
+        ],
+        "py2_pert": [
+            "fēn huà",
+            "shuō huà",
+            "shēn huà",
+            "qiáng huà"
+        ],
+        "answer": "C"
+    },
+    "53264": {
+        "w": "直属",
+        "cnt": 346,
+        "py1": "zhi2 shu3",
+        "py2": "zhí shǔ",
+        "w_pert": [
+            "植树",
+            "直说",
+            "执法",
+            "植入"
+        ],
+        "py2_pert": [
+            "zhí shù",
+            "zhí shuō",
+            "zhí fǎ",
+            "zhí rù"
+        ],
+        "answer": "A"
+    },
+    "6984": {
+        "w": "答疑",
+        "cnt": 316,
+        "py1": "da2 yi2",
+        "py2": "dá yí",
+        "w_pert": [
+            "大姨",
+            "多疑",
+            "阿姨",
+            "便宜"
+        ],
+        "py2_pert": [
+            "dà yí",
+            "duō yí",
+            "ā yí",
+            "pián yí"
+        ],
+        "answer": "A"
+    },
+    "18244": {
+        "w": "回应",
+        "cnt": 1784,
+        "py1": "hui2 ying4",
+        "py2": "huí yìng",
+        "w_pert": [
+            "呼应",
+            "强硬",
+            "辉映",
+            "对应"
+        ],
+        "py2_pert": [
+            "hū yìng",
+            "qiáng yìng",
+            "huī yìng",
+            "duì yìng"
+        ],
+        "answer": "C"
+    },
+    "36858": {
+        "w": "示范",
+        "cnt": 1659,
+        "py1": "shi4 fan4",
+        "py2": "shì fàn",
+        "w_pert": [
+            "做饭",
+            "吃饭",
+            "商贩",
+            "师范"
+        ],
+        "py2_pert": [
+            "zuò fàn",
+            "chī fàn",
+            "shāng fàn",
+            "shī fàn"
+        ],
+        "answer": "D"
+    },
+    "31695": {
+        "w": "气质",
+        "cnt": 1997,
+        "py1": "qi4 zhi4",
+        "py2": "qì zhì",
+        "w_pert": [
+            "旗帜",
+            "潜质",
+            "甚至",
+            "机智"
+        ],
+        "py2_pert": [
+            "qí zhì",
+            "qián zhì",
+            "shèn zhì",
+            "jī zhì"
+        ],
+        "answer": "A"
+    },
+    "20511": {
+        "w": "交谈",
+        "cnt": 369,
+        "py1": "jiao1 tan2",
+        "py2": "jiāo tán",
+        "w_pert": [
+            "交替",
+            "交换",
+            "交流",
+            "焦炭"
+        ],
+        "py2_pert": [
+            "jiāo tì",
+            "jiāo huàn",
+            "jiāo liú",
+            "jiāo tàn"
+        ],
+        "answer": "D"
+    },
+    "54012": {
+        "w": "重心",
+        "cnt": 678,
+        "py1": "zhong4 xin1",
+        "py2": "zhòng xīn",
+        "w_pert": [
+            "真心",
+            "衷心",
+            "耐心",
+            "同心"
+        ],
+        "py2_pert": [
+            "zhēn xīn",
+            "zhōng xīn",
+            "nài xīn",
+            "tóng xīn"
+        ],
+        "answer": "B"
+    },
+    "36266": {
+        "w": "失常",
+        "cnt": 134,
+        "py1": "shi1 chang2",
+        "py2": "shī cháng",
+        "w_pert": [
+            "日常",
+            "非常",
+            "时常",
+            "擅长"
+        ],
+        "py2_pert": [
+            "rì cháng",
+            "fēi cháng",
+            "shí cháng",
+            "shàn cháng"
+        ],
+        "answer": "C"
+    },
+    "12025": {
+        "w": "奋发",
+        "cnt": 109,
+        "py1": "fen4 fa1",
+        "py2": "fèn fā",
+        "w_pert": [
+            "蒸发",
+            "风发",
+            "印发",
+            "分发"
+        ],
+        "py2_pert": [
+            "zhēng fā",
+            "fēng fā",
+            "yìn fā",
+            "fēn fā"
+        ],
+        "answer": "D"
+    },
+    "49882": {
+        "w": "悠闲",
+        "cnt": 255,
+        "py1": "you1 xian2",
+        "py2": "yōu xián",
+        "w_pert": [
+            "优先",
+            "优点",
+            "优良",
+            "优秀"
+        ],
+        "py2_pert": [
+            "yōu xiān",
+            "yōu diǎn",
+            "yōu liáng",
+            "yōu xiù"
+        ],
+        "answer": "A"
+    },
+    "39929": {
+        "w": "天价",
+        "cnt": 246,
+        "py1": "tian1 jia4",
+        "py2": "tiān jià",
+        "w_pert": [
+            "天花",
+            "天津",
+            "添加",
+            "天气"
+        ],
+        "py2_pert": [
+            "tiān huā",
+            "tiān jīn",
+            "tiān jiā",
+            "tiān qì"
+        ],
+        "answer": "C"
+    },
+    "8850": {
+        "w": "地址",
+        "cnt": 2678,
+        "py1": "di4 zhi3",
+        "py2": "dì zhǐ",
+        "w_pert": [
+            "地政",
+            "地产",
+            "地势",
+            "地质"
+        ],
+        "py2_pert": [
+            "dì zhèng",
+            "dì chǎn",
+            "dì shì",
+            "dì zhì"
+        ],
+        "answer": "D"
+    },
+    "30860": {
+        "w": "平底",
+        "cnt": 200,
+        "py1": "ping2 di3",
+        "py2": "píng dǐ",
+        "w_pert": [
+            "平息",
+            "平稳",
+            "平地",
+            "平淡"
+        ],
+        "py2_pert": [
+            "píng xī",
+            "píng wěn",
+            "píng dì",
+            "píng dàn"
+        ],
+        "answer": "C"
+    },
+    "44200": {
+        "w": "现有",
+        "cnt": 2688,
+        "py1": "xian4 you3",
+        "py2": "xiàn yǒu",
+        "w_pert": [
+            "稀有",
+            "具有",
+            "鲜有",
+            "原有"
+        ],
+        "py2_pert": [
+            "xī yǒu",
+            "jù yǒu",
+            "xiān yǒu",
+            "yuán yǒu"
+        ],
+        "answer": "C"
+    },
+    "15127": {
+        "w": "罐头",
+        "cnt": 113,
+        "py1": "guan4 tou2",
+        "py2": "guàn tóu",
+        "w_pert": [
+            "馒头",
+            "镜头",
+            "关头",
+            "光头"
+        ],
+        "py2_pert": [
+            "mán tóu",
+            "jìng tóu",
+            "guān tóu",
+            "guāng tóu"
+        ],
+        "answer": "C"
+    },
+    "44189": {
+        "w": "现场",
+        "cnt": 7578,
+        "py1": "xian4 chang3",
+        "py2": "xiàn chǎng",
+        "w_pert": [
+            "现出",
+            "线索",
+            "现状",
+            "县长"
+        ],
+        "py2_pert": [
+            "xiàn chū",
+            "xiàn suǒ",
+            "xiàn zhuàng",
+            "xiàn cháng"
+        ],
+        "answer": "D"
+    },
+    "32161": {
+        "w": "强奸",
+        "cnt": 121,
+        "py1": "qiang2 jian1",
+        "py2": "qiáng jiān",
+        "w_pert": [
+            "强健",
+            "强身",
+            "墙面",
+            "强劲"
+        ],
+        "py2_pert": [
+            "qiáng jiàn",
+            "qiáng shēn",
+            "qiáng miàn",
+            "qiáng jìng"
+        ],
+        "answer": "A"
+    },
+    "9479": {
+        "w": "定理",
+        "cnt": 137,
+        "py1": "ding4 li3",
+        "py2": "dìng lǐ",
+        "w_pert": [
+            "定义",
+            "定点",
+            "定量",
+            "订立"
+        ],
+        "py2_pert": [
+            "dìng yì",
+            "dìng diǎn",
+            "dìng liàng",
+            "dìng lì"
+        ],
+        "answer": "D"
+    },
+    "36968": {
+        "w": "试工",
+        "cnt": 131,
+        "py1": "shi4 gong1",
+        "py2": "shì gōng",
+        "w_pert": [
+            "化工",
+            "收工",
+            "施工",
+            "职工"
+        ],
+        "py2_pert": [
+            "huà gōng",
+            "shōu gōng",
+            "shī gōng",
+            "zhí gōng"
+        ],
+        "answer": "C"
+    },
+    "39713": {
+        "w": "梯形",
+        "cnt": 113,
+        "py1": "ti1 xing2",
+        "py2": "tī xíng",
+        "w_pert": [
+            "图形",
+            "题型",
+            "地形",
+            "车型"
+        ],
+        "py2_pert": [
+            "tú xíng",
+            "tí xíng",
+            "dì xíng",
+            "chē xíng"
+        ],
+        "answer": "B"
+    },
+    "53456": {
+        "w": "至极",
+        "cnt": 169,
+        "py1": "zhi4 ji2",
+        "py2": "zhì jí",
+        "w_pert": [
+            "制剂",
+            "至今",
+            "秩序",
+            "智能"
+        ],
+        "py2_pert": [
+            "zhì jì",
+            "zhì jīn",
+            "zhì xù",
+            "zhì néng"
+        ],
+        "answer": "A"
+    },
+    "43785": {
+        "w": "下放",
+        "cnt": 238,
+        "py1": "xia4 fang4",
+        "py2": "xià fàng",
+        "w_pert": [
+            "下风",
+            "下方",
+            "下场",
+            "下去"
+        ],
+        "py2_pert": [
+            "xià fēng",
+            "xià fāng",
+            "xià chǎng",
+            "xià qù"
+        ],
+        "answer": "B"
+    },
+    "53055": {
+        "w": "支付",
+        "cnt": 3167,
+        "py1": "zhi1 fu4",
+        "py2": "zhī fù",
+        "w_pert": [
+            "自负",
+            "恢复",
+            "重负",
+            "致富"
+        ],
+        "py2_pert": [
+            "zì fù",
+            "huī fù",
+            "zhòng fù",
+            "zhì fù"
+        ],
+        "answer": "D"
+    },
+    "37380": {
+        "w": "受到",
+        "cnt": 8627,
+        "py1": "shou4 dao4",
+        "py2": "shòu dào",
+        "w_pert": [
+            "报道",
+            "说道",
+            "收到",
+            "周到"
+        ],
+        "py2_pert": [
+            "bào dào",
+            "shuō dào",
+            "shōu dào",
+            "zhōu dào"
+        ],
+        "answer": "C"
+    },
+    "12534": {
+        "w": "浮现",
+        "cnt": 196,
+        "py1": "fu2 xian4",
+        "py2": "fú xiàn",
+        "w_pert": [
+            "付现",
+            "极限",
+            "发现",
+            "路线"
+        ],
+        "py2_pert": [
+            "fù xiàn",
+            "jí xiàn",
+            "fā xiàn",
+            "lù xiàn"
+        ],
+        "answer": "A"
+    },
+    "19168": {
+        "w": "急速",
+        "cnt": 258,
+        "py1": "ji2 su4",
+        "py2": "jí sù",
+        "w_pert": [
+            "加速",
+            "激素",
+            "低速",
+            "元素"
+        ],
+        "py2_pert": [
+            "jiā sù",
+            "jī sù",
+            "dī sù",
+            "yuán sù"
+        ],
+        "answer": "B"
+    },
+    "13507": {
+        "w": "高低",
+        "cnt": 892,
+        "py1": "gao1 di1",
+        "py2": "gāo dī",
+        "w_pert": [
+            "高中",
+            "高地",
+            "高度",
+            "高于"
+        ],
+        "py2_pert": [
+            "gāo zhōng",
+            "gāo dì",
+            "gāo dù",
+            "gāo yú"
+        ],
+        "answer": "B"
+    },
+    "43906": {
+        "w": "吓人",
+        "cnt": 211,
+        "py1": "xia4 ren2",
+        "py2": "xià rén",
+        "w_pert": [
+            "病人",
+            "虾仁",
+            "他人",
+            "学人"
+        ],
+        "py2_pert": [
+            "bìng rén",
+            "xiā rén",
+            "tā rén",
+            "xué rén"
+        ],
+        "answer": "B"
+    },
+    "21258": {
+        "w": "借口",
+        "cnt": 523,
+        "py1": "jie4 kou3",
+        "py2": "jiè kǒu",
+        "w_pert": [
+            "接口",
+            "缺口",
+            "入口",
+            "家口"
+        ],
+        "py2_pert": [
+            "jiē kǒu",
+            "quē kǒu",
+            "rù kǒu",
+            "jiā kǒu"
+        ],
+        "answer": "A"
+    },
+    "15526": {
+        "w": "国脚",
+        "cnt": 134,
+        "py1": "guo2 jiao3",
+        "py2": "guó jiǎo",
+        "w_pert": [
+            "国籍",
+            "国教",
+            "国产",
+            "国标"
+        ],
+        "py2_pert": [
+            "guó jí",
+            "guó jiào",
+            "guó chǎn",
+            "guó biāo"
+        ],
+        "answer": "B"
+    },
+    "19367": {
+        "w": "纪律",
+        "cnt": 670,
+        "py1": "ji4 lü4",
+        "py2": "jì lǜ",
+        "w_pert": [
+            "焦虑",
+            "疑虑",
+            "几率",
+            "效率"
+        ],
+        "py2_pert": [
+            "jiāo lǜ",
+            "yí lǜ",
+            "jī lǜ",
+            "xiào lǜ"
+        ],
+        "answer": "C"
+    },
+    "11863": {
+        "w": "分割",
+        "cnt": 516,
+        "py1": "fen1 ge1",
+        "py2": "fēn gē",
+        "w_pert": [
+            "分得",
+            "分隔",
+            "纷纷",
+            "分管"
+        ],
+        "py2_pert": [
+            "fēn dé",
+            "fēn gé",
+            "fēn fēn",
+            "fēn guǎn"
+        ],
+        "answer": "B"
+    },
+    "11353": {
+        "w": "方形",
+        "cnt": 368,
+        "py1": "fang1 xing2",
+        "py2": "fāng xíng",
+        "w_pert": [
+            "强行",
+            "发型",
+            "推行",
+            "放行"
+        ],
+        "py2_pert": [
+            "qiáng xíng",
+            "fà xíng",
+            "tuī xíng",
+            "fàng xíng"
+        ],
+        "answer": "D"
+    },
+    "42090": {
+        "w": "微笑",
+        "cnt": 863,
+        "py1": "wei1 xiao4",
+        "py2": "wēi xiào",
+        "w_pert": [
+            "微调",
+            "危险",
+            "微小",
+            "危害"
+        ],
+        "py2_pert": [
+            "wēi tiáo",
+            "wēi xiǎn",
+            "wēi xiǎo",
+            "wēi hài"
+        ],
+        "answer": "C"
+    },
+    "55116": {
+        "w": "字号",
+        "cnt": 246,
+        "py1": "zi4 hao5",
+        "py2": "zì hao",
+        "w_pert": [
+            "字画",
+            "自豪",
+            "自嘲",
+            "自在"
+        ],
+        "py2_pert": [
+            "zì huà",
+            "zì háo",
+            "zì cháo",
+            "zì zai"
+        ],
+        "answer": "B"
+    },
+    "53803": {
+        "w": "中专",
+        "cnt": 238,
+        "py1": "zhong1 zhuan1",
+        "py2": "zhōng zhuān",
+        "w_pert": [
+            "中南",
+            "中指",
+            "中转",
+            "中间"
+        ],
+        "py2_pert": [
+            "zhōng nán",
+            "zhōng zhǐ",
+            "zhōng zhuǎn",
+            "zhōng jiān"
+        ],
+        "answer": "C"
+    },
+    "42835": {
+        "w": "无机",
+        "cnt": 115,
+        "py1": "wu2 ji1",
+        "py2": "wú jī",
+        "w_pert": [
+            "无几",
+            "无非",
+            "无尽",
+            "无比"
+        ],
+        "py2_pert": [
+            "wú jǐ",
+            "wú fēi",
+            "wú jìn",
+            "wú bǐ"
+        ],
+        "answer": "A"
+    },
+    "19310": {
+        "w": "计分",
+        "cnt": 234,
+        "py1": "ji4 fen1",
+        "py2": "jì fēn",
+        "w_pert": [
+            "划分",
+            "区分",
+            "纠纷",
+            "积分"
+        ],
+        "py2_pert": [
+            "huà fēn",
+            "qū fēn",
+            "jiū fēn",
+            "jī fēn"
+        ],
+        "answer": "D"
+    },
+    "16484": {
+        "w": "和气",
+        "cnt": 316,
+        "py1": "he2 qi5",
+        "py2": "hé qi",
+        "w_pert": [
+            "合体",
+            "合同",
+            "何其",
+            "和亲"
+        ],
+        "py2_pert": [
+            "hé tǐ",
+            "hé tong",
+            "hé qí",
+            "hé qīn"
+        ],
+        "answer": "C"
+    },
+    "53031": {
+        "w": "之际",
+        "cnt": 1082,
+        "py1": "zhi1 ji4",
+        "py2": "zhī jì",
+        "w_pert": [
+            "肢体",
+            "知道",
+            "之间",
+            "知己"
+        ],
+        "py2_pert": [
+            "zhī tǐ",
+            "zhī dào",
+            "zhī jiān",
+            "zhī jǐ"
+        ],
+        "answer": "D"
+    },
+    "37511": {
+        "w": "书籍",
+        "cnt": 623,
+        "py1": "shu1 ji2",
+        "py2": "shū jí",
+        "w_pert": [
+            "书架",
+            "书记",
+            "书房",
+            "梳理"
+        ],
+        "py2_pert": [
+            "shū jià",
+            "shū jì",
+            "shū fáng",
+            "shū lǐ"
+        ],
+        "answer": "B"
+    },
+    "50051": {
+        "w": "游击",
+        "cnt": 115,
+        "py1": "you2 ji1",
+        "py2": "yóu jī",
+        "w_pert": [
+            "邮件",
+            "由于",
+            "游记",
+            "油脂"
+        ],
+        "py2_pert": [
+            "yóu jiàn",
+            "yóu yú",
+            "yóu jì",
+            "yóu zhī"
+        ],
+        "answer": "C"
+    },
+    "41644": {
+        "w": "外教",
+        "cnt": 169,
+        "py1": "wai4 jiao4",
+        "py2": "wài jiào",
+        "w_pert": [
+            "外面",
+            "外加",
+            "外交",
+            "外表"
+        ],
+        "py2_pert": [
+            "wài miàn",
+            "wài jiā",
+            "wài jiāo",
+            "wài biǎo"
+        ],
+        "answer": "C"
+    },
+    "8575": {
+        "w": "低头",
+        "cnt": 405,
+        "py1": "di1 tou2",
+        "py2": "dī tóu",
+        "w_pert": [
+            "巨头",
+            "带头",
+            "地头",
+            "空头"
+        ],
+        "py2_pert": [
+            "jù tóu",
+            "dài tóu",
+            "dì tóu",
+            "kōng tóu"
+        ],
+        "answer": "C"
+    },
+    "29926": {
+        "w": "排队",
+        "cnt": 793,
+        "py1": "pai2 dui4",
+        "py2": "pái duì",
+        "w_pert": [
+            "带队",
+            "派对",
+            "配对",
+            "团队"
+        ],
+        "py2_pert": [
+            "dài duì",
+            "pài duì",
+            "pèi duì",
+            "tuán duì"
+        ],
+        "answer": "B"
+    },
+    "21465": {
+        "w": "尽职",
+        "cnt": 310,
+        "py1": "jin4 zhi2",
+        "py2": "jìn zhí",
+        "w_pert": [
+            "禁止",
+            "进而",
+            "进展",
+            "近日"
+        ],
+        "py2_pert": [
+            "jìn zhǐ",
+            "jìn ér",
+            "jìn zhǎn",
+            "jìn rì"
+        ],
+        "answer": "A"
+    },
+    "40905": {
+        "w": "投向",
+        "cnt": 352,
+        "py1": "tou2 xiang4",
+        "py2": "tóu xiàng",
+        "w_pert": [
+            "投入",
+            "头衔",
+            "头羊",
+            "投降"
+        ],
+        "py2_pert": [
+            "tóu rù",
+            "tóu xián",
+            "tóu yáng",
+            "tóu xiáng"
+        ],
+        "answer": "D"
+    },
+    "55046": {
+        "w": "滋味",
+        "cnt": 476,
+        "py1": "zi1 wei4",
+        "py2": "zī wèi",
+        "w_pert": [
+            "自卫",
+            "因为",
+            "座位",
+            "职位"
+        ],
+        "py2_pert": [
+            "zì wèi",
+            "yīn wèi",
+            "zuò wèi",
+            "zhí wèi"
+        ],
+        "answer": "A"
+    },
+    "19218": {
+        "w": "集结",
+        "cnt": 368,
+        "py1": "ji2 jie2",
+        "py2": "jí jié",
+        "w_pert": [
+            "纠结",
+            "环节",
+            "季节",
+            "细节"
+        ],
+        "py2_pert": [
+            "jiū jié",
+            "huán jié",
+            "jì jié",
+            "xì jié"
+        ],
+        "answer": "C"
+    },
+    "20899": {
+        "w": "接近",
+        "cnt": 2946,
+        "py1": "jie1 jin4",
+        "py2": "jiē jìn",
+        "w_pert": [
+            "竭尽",
+            "渐进",
+            "跃进",
+            "先进"
+        ],
+        "py2_pert": [
+            "jié jìn",
+            "jiàn jìn",
+            "yuè jìn",
+            "xiān jìn"
+        ],
+        "answer": "A"
+    },
+    "53204": {
+        "w": "执意",
+        "cnt": 114,
+        "py1": "zhi2 yi4",
+        "py2": "zhí yì",
+        "w_pert": [
+            "正义",
+            "失意",
+            "权益",
+            "致意"
+        ],
+        "py2_pert": [
+            "zhèng yì",
+            "shī yì",
+            "quán yì",
+            "zhì yì"
+        ],
+        "answer": "D"
+    },
+    "48453": {
+        "w": "伊始",
+        "cnt": 185,
+        "py1": "yi1 shi3",
+        "py2": "yī shǐ",
+        "w_pert": [
+            "医师",
+            "医生",
+            "依法",
+            "依次"
+        ],
+        "py2_pert": [
+            "yī shī",
+            "yī shēng",
+            "yī fǎ",
+            "yī cì"
+        ],
+        "answer": "A"
+    },
+    "42109": {
+        "w": "为期",
+        "cnt": 898,
+        "py1": "wei2 qi1",
+        "py2": "wéi qī",
+        "w_pert": [
+            "围棋",
+            "违规",
+            "违纪",
+            "维权"
+        ],
+        "py2_pert": [
+            "wéi qí",
+            "wéi guī",
+            "wéi jì",
+            "wéi quán"
+        ],
+        "answer": "A"
+    },
+    "34978": {
+        "w": "山石",
+        "cnt": 125,
+        "py1": "shan1 shi2",
+        "py2": "shān shí",
+        "w_pert": [
+            "暂时",
+            "实时",
+            "膳食",
+            "当时"
+        ],
+        "py2_pert": [
+            "zàn shí",
+            "shí shí",
+            "shàn shí",
+            "dāng shí"
+        ],
+        "answer": "C"
+    },
+    "53080": {
+        "w": "支柱",
+        "cnt": 457,
+        "py1": "zhi1 zhu4",
+        "py2": "zhī zhù",
+        "w_pert": [
+            "之中",
+            "之外",
+            "蜘蛛",
+            "支出"
+        ],
+        "py2_pert": [
+            "zhī zhōng",
+            "zhī wài",
+            "zhī zhū",
+            "zhī chū"
+        ],
+        "answer": "C"
+    },
+    "34027": {
+        "w": "荣华",
+        "cnt": 102,
+        "py1": "rong2 hua2",
+        "py2": "róng huá",
+        "w_pert": [
+            "融化",
+            "容纳",
+            "荣获",
+            "容颜"
+        ],
+        "py2_pert": [
+            "róng huà",
+            "róng nà",
+            "róng huò",
+            "róng yán"
+        ],
+        "answer": "A"
+    },
+    "35635": {
+        "w": "摄取",
+        "cnt": 236,
+        "py1": "she4 qu3",
+        "py2": "shè qǔ",
+        "w_pert": [
+            "摄影",
+            "社群",
+            "射击",
+            "社区"
+        ],
+        "py2_pert": [
+            "shè yǐng",
+            "shè qún",
+            "shè jī",
+            "shè qū"
+        ],
+        "answer": "D"
+    },
+    "12051": {
+        "w": "粪便",
+        "cnt": 127,
+        "py1": "fen4 bian4",
+        "py2": "fèn biàn",
+        "w_pert": [
+            "分辨",
+            "病变",
+            "方便",
+            "生变"
+        ],
+        "py2_pert": [
+            "fēn biàn",
+            "bìng biàn",
+            "fāng biàn",
+            "shēng biàn"
+        ],
+        "answer": "A"
+    },
+    "19135": {
+        "w": "急剧",
+        "cnt": 401,
+        "py1": "ji2 ju4",
+        "py2": "jí jù",
+        "w_pert": [
+            "凝聚",
+            "间距",
+            "机具",
+            "戏剧"
+        ],
+        "py2_pert": [
+            "níng jù",
+            "jiān jù",
+            "jī jù",
+            "xì jù"
+        ],
+        "answer": "C"
+    },
+    "35327": {
+        "w": "上场",
+        "cnt": 394,
+        "py1": "shang4 chang3",
+        "py2": "shàng chǎng",
+        "w_pert": [
+            "商场",
+            "当场",
+            "在场",
+            "收场"
+        ],
+        "py2_pert": [
+            "shāng chǎng",
+            "dāng chǎng",
+            "zài chǎng",
+            "shōu chǎng"
+        ],
+        "answer": "A"
+    },
+    "13725": {
+        "w": "格子",
+        "cnt": 189,
+        "py1": "ge2 zi5",
+        "py2": "gé zi",
+        "w_pert": [
+            "车子",
+            "盖子",
+            "个子",
+            "儿子"
+        ],
+        "py2_pert": [
+            "chē zi",
+            "gài zi",
+            "gè zi",
+            "ér zi"
+        ],
+        "answer": "C"
+    },
+    "52984": {
+        "w": "政党",
+        "cnt": 215,
+        "py1": "zheng4 dang3",
+        "py2": "zhèng dǎng",
+        "w_pert": [
+            "政府",
+            "正当",
+            "正大",
+            "正方"
+        ],
+        "py2_pert": [
+            "zhèng fǔ",
+            "zhèng dāng",
+            "zhèng dà",
+            "zhèng fāng"
+        ],
+        "answer": "B"
+    },
+    "8389": {
+        "w": "得时",
+        "cnt": 197,
+        "py1": "de2 shi2",
+        "py2": "dé shí",
+        "w_pert": [
+            "得知",
+            "德国",
+            "得手",
+            "得失"
+        ],
+        "py2_pert": [
+            "dé zhī",
+            "dé guó",
+            "dé shǒu",
+            "dé shī"
+        ],
+        "answer": "D"
+    },
+    "19387": {
+        "w": "纪要",
+        "cnt": 200,
+        "py1": "ji4 yao4",
+        "py2": "jì yào",
+        "w_pert": [
+            "将要",
+            "需要",
+            "机要",
+            "概要"
+        ],
+        "py2_pert": [
+            "jiāng yào",
+            "xū yào",
+            "jī yào",
+            "gài yào"
+        ],
+        "answer": "C"
+    },
+    "36707": {
+        "w": "食量",
+        "cnt": 118,
+        "py1": "shi2 liang4",
+        "py2": "shí liàng",
+        "w_pert": [
+            "数量",
+            "能量",
+            "质量",
+            "适量"
+        ],
+        "py2_pert": [
+            "shù liàng",
+            "néng liàng",
+            "zhì liàng",
+            "shì liàng"
+        ],
+        "answer": "D"
+    },
+    "11549": {
+        "w": "放款",
+        "cnt": 114,
+        "py1": "fang4 kuan3",
+        "py2": "fàng kuǎn",
+        "w_pert": [
+            "放眼",
+            "放宽",
+            "放慢",
+            "放开"
+        ],
+        "py2_pert": [
+            "fàng yǎn",
+            "fàng kuān",
+            "fàng màn",
+            "fàng kāi"
+        ],
+        "answer": "B"
+    },
+    "22027": {
+        "w": "静谧",
+        "cnt": 219,
+        "py1": "jing4 mi4",
+        "py2": "jìng mì",
+        "w_pert": [
+            "精密",
+            "亲密",
+            "揭秘",
+            "秘密"
+        ],
+        "py2_pert": [
+            "jīng mì",
+            "qīn mì",
+            "jiē mì",
+            "mì mì"
+        ],
+        "answer": "A"
+    }
+}
