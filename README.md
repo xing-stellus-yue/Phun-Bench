@@ -10,7 +10,7 @@
 This repository contains the Phun-Bench datasets and evaluation code.
 
 <p align="center">
-  <img src="paper/image/data_sample.png" width="900" alt="Examples of the three Phun-Bench dimensions">
+  <img src="assets/data_sample.png" width="900" alt="Examples of the three Phun-Bench dimensions">
 </p>
 
 ## News
